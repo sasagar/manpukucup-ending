@@ -1,11 +1,8 @@
 <script setup>
-import titleImg from "../../../assets/images/12th/manpukucup_12.png";
-console.log(titleImg);
-document.getElementById("manpukucup_title").src = titleImg;
 </script>
 
 <template>
-    <img id="manpukucup_title" alt="第12回まんぷく杯" rel="preload">
+    <img src="@/assets/images/12th/manpukucup_12.png" alt="第12回まんぷく杯" rel="preload">
 </template>
 
 <style lang="scss" scoped>
