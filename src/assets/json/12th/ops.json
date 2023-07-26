@@ -1,0 +1,39 @@
+{
+    "ops": [
+        {
+            "futatsuna": "まんぷく3分クッキング",
+            "name": "2BASA",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "書記長",
+            "name": "がずにゃん",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "いかすきーの鯖缶",
+            "name": "ささぴよ",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "シャンミカーニバル",
+            "name": "しゃん",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "エクストラ集計マシン",
+            "name": "ひなぬー",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "フォームの魔術師",
+            "name": "みどど",
+            "push": "ops"
+        },
+        {
+            "futatsuna": "半休奪取",
+            "name": "よよみ",
+            "push": "ops"
+        }
+    ]
+}

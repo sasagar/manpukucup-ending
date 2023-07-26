@@ -1,0 +1,2660 @@
+{
+    "teams": [
+        {
+            "futatsuna": "お腹が唐揚げ",
+            "name": "ちこみーやと食べ物",
+            "members": [
+                {
+                    "name": "なまたまごはん"
+                },
+                {
+                    "name": "ゆでたまごはん"
+                },
+                {
+                    "name": "ちこみーや"
+                },
+                {
+                    "name": "Piiiiman"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あなただけのタマヒロイ",
+            "name": "カタパを許すな",
+            "members": [
+                {
+                    "name": "たれみみウサピ"
+                },
+                {
+                    "name": "ひれゆ"
+                },
+                {
+                    "name": "らいせはチャイティー"
+                },
+                {
+                    "name": "たまお"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "ラッキーな納品屋さん",
+            "name": "チームこぼれいくら部",
+            "members": [
+                {
+                    "name": "じすぺけ-1000R"
+                },
+                {
+                    "name": "カルビかもしれない"
+                },
+                {
+                    "name": "すいろかもしれない"
+                },
+                {
+                    "name": "まーめろでぃ♪"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "無意識に運ぶのじゃ",
+            "name": "セクシー本舗",
+            "members": [
+                {
+                    "name": "イクラバクシンオー"
+                },
+                {
+                    "name": "べにー"
+                },
+                {
+                    "name": "まっしろしろすけ！"
+                },
+                {
+                    "name": "Rovi。"
+                },
+                {
+                    "name": "アサゴ・ハーン"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "オカシラシャケとランデヴー",
+            "name": "オカシラ討伐隊",
+            "members": [
+                {
+                    "name": "ひなっこ"
+                },
+                {
+                    "name": "えいみそ"
+                },
+                {
+                    "name": "398"
+                },
+                {
+                    "name": "るそー"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "とりあえずいっしょ",
+            "name": "まるでなかよし",
+            "members": [
+                {
+                    "name": "なちまる"
+                },
+                {
+                    "name": "しろまる"
+                },
+                {
+                    "name": "ほむまる"
+                },
+                {
+                    "name": "あとじ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "クマサン商会の鮭畜",
+            "name": "じゃっくとゆかいなてしたたち",
+            "members": [
+                {
+                    "name": "ジャックハーツ"
+                },
+                {
+                    "name": "まお-G01"
+                },
+                {
+                    "name": "どざぽん"
+                },
+                {
+                    "name": "せみ"
+                },
+                {
+                    "name": "くりむ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "かけだしの労働組合員",
+            "name": "かけだしシャケしばき隊",
+            "members": [
+                {
+                    "name": "KSS_はるこ"
+                },
+                {
+                    "name": "KSS_りょーこ"
+                },
+                {
+                    "name": "KSS_キミ"
+                },
+                {
+                    "name": "KSS_≫わっしょい"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "進撃のくいしんぼう",
+            "name": "もちもちーず",
+            "members": [
+                {
+                    "name": "りょうこ"
+                },
+                {
+                    "name": "なつきち"
+                },
+                {
+                    "name": "こむちぃ"
+                },
+                {
+                    "name": "しょうゆもち"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "目指すはカルパッチョ",
+            "name": "寄せ三銃士お断り",
+            "members": [
+                {
+                    "name": "daays"
+                },
+                {
+                    "name": "mitako"
+                },
+                {
+                    "name": "↑↑↑まりや↑↑↑"
+                },
+                {
+                    "name": "ラテ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あわてんぼうのマンタロー",
+            "name": "クマさんの下僕たちは腹ペコ",
+            "members": [
+                {
+                    "name": "ぬまっち"
+                },
+                {
+                    "name": "にゅん"
+                },
+                {
+                    "name": "みかみぃ"
+                },
+                {
+                    "name": "くらげ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "期待の推し",
+            "name": "ゆうぎょくてえてえ",
+            "members": [
+                {
+                    "name": "514"
+                },
+                {
+                    "name": "あーちすと"
+                },
+                {
+                    "name": "ぶたキムチ"
+                },
+                {
+                    "name": "ぎょくちゃんランド"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆納品レンジャー",
+            "name": "初代しゃけとば内閣",
+            "members": [
+                {
+                    "name": "Yu"
+                },
+                {
+                    "name": "あめちゃん"
+                },
+                {
+                    "name": "み！"
+                },
+                {
+                    "name": "さめ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "いつまでも鮭畜",
+            "name": "三代目浮き輪戦隊サモランジャー",
+            "members": [
+                {
+                    "name": "Olutta"
+                },
+                {
+                    "name": "にゃお"
+                },
+                {
+                    "name": "のりのり"
+                },
+                {
+                    "name": "よっちゃん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "アゲアゲなくいしんぼう",
+            "name": "イカ水",
+            "members": [
+                {
+                    "name": "そば"
+                },
+                {
+                    "name": "ゆうひさん"
+                },
+                {
+                    "name": "りまか"
+                },
+                {
+                    "name": "ばるりあ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "届かなかった金イクラ",
+            "name": "タマヒロEats",
+            "members": [
+                {
+                    "name": "でりしゃすずんだ"
+                },
+                {
+                    "name": "Lyra＊のーさん"
+                },
+                {
+                    "name": "はるぼ〜チャンネル"
+                },
+                {
+                    "name": "しあ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "キミとテッキュウ",
+            "name": "ちーむにしきあなご",
+            "members": [
+                {
+                    "name": "さゆにしき"
+                },
+                {
+                    "name": "あなごてんちょ"
+                },
+                {
+                    "name": "じゃりにしき"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "トキメキ☆労働組合員",
+            "name": "The営業",
+            "members": [
+                {
+                    "name": "キサラヅ"
+                },
+                {
+                    "name": "まるひろω"
+                },
+                {
+                    "name": "まっちゃはまかぜ"
+                },
+                {
+                    "name": "ハンジ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "ラッキーな金イクラ",
+            "name": "幸運なAの4人組",
+            "members": [
+                {
+                    "name": "あーちゃん"
+                },
+                {
+                    "name": "こあさくん。"
+                },
+                {
+                    "name": "もちもちきなこ"
+                },
+                {
+                    "name": "Aya"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケの夏祭り",
+            "name": "かよわいイカちゃんたち",
+            "members": [
+                {
+                    "name": "Ganglion"
+                },
+                {
+                    "name": "【ふ】"
+                },
+                {
+                    "name": "Rlbr"
+                },
+                {
+                    "name": "ホーム/"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "ダイエット中のくいしんぼう",
+            "name": "モルモットたち",
+            "members": [
+                {
+                    "name": "ゆぱぴりか"
+                },
+                {
+                    "name": "こう"
+                },
+                {
+                    "name": "おぽん"
+                },
+                {
+                    "name": "せっさま"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "昔からのアルバイター",
+            "name": "妖精と戯れるエンジオイ党",
+            "members": [
+                {
+                    "name": "アァクふぇありィ‪☆"
+                },
+                {
+                    "name": "Bタミン"
+                },
+                {
+                    "name": "ぺ"
+                },
+                {
+                    "name": "caypeかいぺ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "目指すは鮭畜",
+            "name": "そうだ！鮭塾に行こう",
+            "members": [
+                {
+                    "name": "るーちゃそ♪"
+                },
+                {
+                    "name": "YocchaN\""
+                },
+                {
+                    "name": "マイこsan"
+                },
+                {
+                    "name": "ゆきたす"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "巻き付くいっしょ",
+            "name": "まめと海外とアイドルともぐーら",
+            "members": [
+                {
+                    "name": "ノノ　ミチオ"
+                },
+                {
+                    "name": "-yuki-"
+                },
+                {
+                    "name": "きんけつ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あなたとランデヴー",
+            "name": "アラ☆ヘラ(アラサーメンヘラ)",
+            "members": [
+                {
+                    "name": "ゆかちん"
+                },
+                {
+                    "name": "かまイカち"
+                },
+                {
+                    "name": "やこ"
+                },
+                {
+                    "name": "かず"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆カルパッチョ",
+            "name": "まささばらぶらぶナワバトラー",
+            "members": [
+                {
+                    "name": "あんず"
+                },
+                {
+                    "name": "イクラにすんぞ"
+                },
+                {
+                    "name": "イリヤスフィール"
+                },
+                {
+                    "name": "ヒロ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケのシャケラッシュ",
+            "name": "よーまさんテッキュウ取らないで",
+            "members": [
+                {
+                    "name": "ぐりーんてぃー"
+                },
+                {
+                    "name": "なるかみ"
+                },
+                {
+                    "name": "よーま"
+                },
+                {
+                    "name": "まぐろ^\"^ゝ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あわてんぼうのテッキュウ",
+            "name": "恋人はてっきゅう",
+            "members": [
+                {
+                    "name": "ともぬん"
+                },
+                {
+                    "name": "わちゃ"
+                },
+                {
+                    "name": "フクロウ(θvθ)"
+                },
+                {
+                    "name": "のんちゃ!!!"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "タマヒロイにおまかせ",
+            "name": "だんまり自治会",
+            "members": [
+                {
+                    "name": "ウデマエ・ロマエ"
+                },
+                {
+                    "name": "かおりン*♪ω"
+                },
+                {
+                    "name": "mii"
+                },
+                {
+                    "name": "にっし～"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "クマサン商会の労働組合員",
+            "name": "ゆる乱獲勢の集い",
+            "members": [
+                {
+                    "name": "minü"
+                },
+                {
+                    "name": "ホクベチュのぼうれい"
+                },
+                {
+                    "name": "いきしち"
+                },
+                {
+                    "name": "もちもちのもちちゃん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "抱きやすい姫",
+            "name": "強欲の壺",
+            "members": [
+                {
+                    "name": "キレそう"
+                },
+                {
+                    "name": "ぽんぬ"
+                },
+                {
+                    "name": "やり　へろろ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "おいしいタマヒロイ",
+            "name": "密漁はじめました",
+            "members": [
+                {
+                    "name": "しじみしゃーく"
+                },
+                {
+                    "name": "iojorky0"
+                },
+                {
+                    "name": "さっと"
+                },
+                {
+                    "name": "さめ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "揚げたてのタツ",
+            "name": "しゃけよりからあげ",
+            "members": [
+                {
+                    "name": "Jack"
+                },
+                {
+                    "name": "みぎしたのるみ"
+                },
+                {
+                    "name": "ただのあちゃも"
+                },
+                {
+                    "name": "をうをう"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "実はクマサン",
+            "name": "せもゆか",
+            "members": [
+                {
+                    "name": "*dORADoR4♪"
+                },
+                {
+                    "name": "ねこせも"
+                },
+                {
+                    "name": "ミナ"
+                },
+                {
+                    "name": "イタリアのくるま〜♪"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あなただけのサメライド",
+            "name": "8時集合10時解散",
+            "members": [
+                {
+                    "name": "なのまる。"
+                },
+                {
+                    "name": "せーやくん"
+                },
+                {
+                    "name": "マヨ"
+                },
+                {
+                    "name": "ゆるヒヤ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "残業好きな新人アルバイター",
+            "name": "NAKAMG US",
+            "members": [
+                {
+                    "name": "リルム"
+                },
+                {
+                    "name": "めか"
+                },
+                {
+                    "name": "kiki"
+                },
+                {
+                    "name": "ゆきだるま"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "いつまでも鮭畜",
+            "name": "バカ鮭畜勢（）",
+            "members": [
+                {
+                    "name": "えのぐ"
+                },
+                {
+                    "name": "ベスト"
+                },
+                {
+                    "name": "サカバンスさかなんぬ"
+                },
+                {
+                    "name": "ほたて"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "非常にたくさんのすじこジャンクション跡",
+            "name": "鮭走ポータルMK8DX部",
+            "members": [
+                {
+                    "name": "くりむらアイリ"
+                },
+                {
+                    "name": "ぱぷß°*。"
+                },
+                {
+                    "name": "レオ"
+                },
+                {
+                    "name": "ヨコズナピクミン"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "キミをランデヴー",
+            "name": "salmon MASTers",
+            "members": [
+                {
+                    "name": "TΛKUM1≫≫≫"
+                },
+                {
+                    "name": "あまてらすす"
+                },
+                {
+                    "name": "はなのあな"
+                },
+                {
+                    "name": "VベリーメロンV"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "バイト戦隊運ぶのじゃ",
+            "name": "みしぇるん",
+            "members": [
+                {
+                    "name": "みーちゃん"
+                },
+                {
+                    "name": "おしぇぺろ(-p-)"
+                },
+                {
+                    "name": "practiceL"
+                },
+                {
+                    "name": "kyon"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "タマヒロイにやられた",
+            "name": "はらぺこじゃけぇ",
+            "members": [
+                {
+                    "name": "ぱっりす"
+                },
+                {
+                    "name": "べにしゃけッ…！"
+                },
+                {
+                    "name": "れ！"
+                },
+                {
+                    "name": "ジュース"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "お腹がデスタワー",
+            "name": "うきさか謹製くまようかん",
+            "members": [
+                {
+                    "name": "うっきぃё"
+                },
+                {
+                    "name": "はがねのメンタル"
+                },
+                {
+                    "name": "つぼ"
+                },
+                {
+                    "name": "くまりら"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "目指すは正社員",
+            "name": "仕上げはおかあさん",
+            "members": [
+                {
+                    "name": "たけりん☆ミ"
+                },
+                {
+                    "name": "しあん"
+                },
+                {
+                    "name": "もあ"
+                },
+                {
+                    "name": "アクア"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケのカルパッチョ",
+            "name": "なましゃけ",
+            "members": [
+                {
+                    "name": "なまバニラ＞にゃんこ"
+                },
+                {
+                    "name": "なまバニラ＞ルシア"
+                },
+                {
+                    "name": "なまバニラ＞だいなま"
+                },
+                {
+                    "name": "なまバニラ＞ぽんいけ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆シャケラッシュ",
+            "name": "美女と呪い",
+            "members": [
+                {
+                    "name": "なめこ"
+                },
+                {
+                    "name": "ひっこしのさかい"
+                },
+                {
+                    "name": "ねころん"
+                },
+                {
+                    "name": "リネ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "心の中のナイス",
+            "name": "でんせつの線香花火",
+            "members": [
+                {
+                    "name": "はるさめ(｀・ω・)"
+                },
+                {
+                    "name": "にわとり"
+                },
+                {
+                    "name": "けむたん"
+                },
+                {
+                    "name": "めいら"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "とりあえず運ぶのじゃ",
+            "name": "今日も元気に休日出勤！",
+            "members": [
+                {
+                    "name": "ようはもるVTube"
+                },
+                {
+                    "name": "たじふ。Vtuber"
+                },
+                {
+                    "name": "エンタ"
+                },
+                {
+                    "name": "ヌメヌメのやまだ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "生まれたての希望の星",
+            "name": "familys",
+            "members": [
+                {
+                    "name": "*チキンライス"
+                },
+                {
+                    "name": "danger"
+                },
+                {
+                    "name": "だるまっちょ"
+                },
+                {
+                    "name": "40n"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "クマサン商会の新人アルバイター",
+            "name": "シャケるチーズ",
+            "members": [
+                {
+                    "name": "あかり*"
+                },
+                {
+                    "name": "るあまる。"
+                },
+                {
+                    "name": "きょじゅまるベビー♪"
+                },
+                {
+                    "name": "ちょうのすけ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "残業好きなサメライド",
+            "name": "サメディングロード",
+            "members": [
+                {
+                    "name": "ゆぱ"
+                },
+                {
+                    "name": "あゆパン"
+                },
+                {
+                    "name": "くれあんっっぬ"
+                },
+                {
+                    "name": "うみぼ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "あらぶるテッキュウ",
+            "name": "うぱさくみぺえる",
+            "members": [
+                {
+                    "name": "sakuraっぴ！"
+                },
+                {
+                    "name": "うぱるぱ"
+                },
+                {
+                    "name": "Riel"
+                },
+                {
+                    "name": "みぺちよ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆労働組合員",
+            "name": "ミョガしょこらっと",
+            "members": [
+                {
+                    "name": "ミョウガミョガミョガ"
+                },
+                {
+                    "name": "しょりおーんヌ"
+                },
+                {
+                    "name": "ちゃちいやこいも"
+                },
+                {
+                    "name": "ふらっとばれっと-V"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "いつまでもシャケラッシュ",
+            "name": "三度の飯より鮭シバき(夏)",
+            "members": [
+                {
+                    "name": "きききき"
+                },
+                {
+                    "name": "さき"
+                },
+                {
+                    "name": "こころ"
+                },
+                {
+                    "name": "クリス"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "まんぷくなまんぷくちゃん",
+            "name": "いもたれーズ",
+            "members": [
+                {
+                    "name": "Umin ɛïɜ"
+                },
+                {
+                    "name": "タコス"
+                },
+                {
+                    "name": "ポムポムチャールズ"
+                },
+                {
+                    "name": "なお。"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "クマサン商会の納品レンジャー",
+            "name": "かぐおB",
+            "members": [
+                {
+                    "name": "ゲッター！！"
+                },
+                {
+                    "name": "かのん"
+                },
+                {
+                    "name": "おいも"
+                },
+                {
+                    "name": "ぐも"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "残業好きな労働組合員",
+            "name": "残業代願望",
+            "members": [
+                {
+                    "name": "や"
+                },
+                {
+                    "name": "とーぞく_しろいろ"
+                },
+                {
+                    "name": "イマジナリーマニュコ"
+                },
+                {
+                    "name": "yu"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "てっきゅーアイス",
+            "name": "アスタリスク*をゆるすな",
+            "members": [
+                {
+                    "name": "まりるりた**いこ"
+                },
+                {
+                    "name": "ぴ〜ちし**ゃむ"
+                },
+                {
+                    "name": "えみ*"
+                },
+                {
+                    "name": "しばんばん*"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆タマヒロイ",
+            "name": "ナモイックリン4K",
+            "members": [
+                {
+                    "name": "うめち"
+                },
+                {
+                    "name": "HERO4"
+                },
+                {
+                    "name": "ぽよもと・C・さえ"
+                },
+                {
+                    "name": "かんぴ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "無意識にナイス",
+            "name": "暑さで弾ける鮭Summer",
+            "members": [
+                {
+                    "name": "とけないなっしゅ"
+                },
+                {
+                    "name": "こな(ちかくかびん)"
+                },
+                {
+                    "name": "domasune^^"
+                },
+                {
+                    "name": "モモンガーZ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "てっきゅー労働組合員",
+            "name": "オオモノ業者あろま支部",
+            "members": [
+                {
+                    "name": "りゃんた"
+                },
+                {
+                    "name": "やみかみばかみやみ"
+                },
+                {
+                    "name": "あろま"
+                },
+                {
+                    "name": "まにゅーばあいしてる"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "てっきゅーおいしい",
+            "name": "はらこめしのぎゃくしゅう",
+            "members": [
+                {
+                    "name": "ペーヨ"
+                },
+                {
+                    "name": "かりさん"
+                },
+                {
+                    "name": "ぴ"
+                },
+                {
+                    "name": "コノハ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "ダイエット中のイヌ",
+            "name": "まぁるいぽよぽよのわんこ",
+            "members": [
+                {
+                    "name": "ぽよ"
+                },
+                {
+                    "name": "19さい♀"
+                },
+                {
+                    "name": "いぬぬ"
+                },
+                {
+                    "name": "ぷ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆ナイス",
+            "name": "しゃけ&ぴーす",
+            "members": [
+                {
+                    "name": "くずもち"
+                },
+                {
+                    "name": "リトルえだまーめイド"
+                },
+                {
+                    "name": "ポッピンくぅシャワー"
+                },
+                {
+                    "name": "せやかて"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆ハーレム",
+            "name": "密漁船",
+            "members": [
+                {
+                    "name": "lov-rab"
+                },
+                {
+                    "name": "N”にゃぼ〜"
+                },
+                {
+                    "name": "サーモン"
+                },
+                {
+                    "name": "もぶ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "常夏のSUMMER",
+            "name": "れたる商会",
+            "members": [
+                {
+                    "name": "れたる"
+                },
+                {
+                    "name": "ミルレート"
+                },
+                {
+                    "name": "おでんくん"
+                },
+                {
+                    "name": "ぐ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あらぶるバイトリーダー",
+            "name": "ハイヒールうめこ",
+            "members": [
+                {
+                    "name": "あいされすぎてクマ"
+                },
+                {
+                    "name": "おまめ。。。"
+                },
+                {
+                    "name": "さけのたにのナモシカ"
+                },
+                {
+                    "name": "うめ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "まんぷくなテッキュウ愛",
+            "name": "やらラーメンキン",
+            "members": [
+                {
+                    "name": "こんにちはー"
+                },
+                {
+                    "name": "ガトリングすずき"
+                },
+                {
+                    "name": "むけおch"
+                },
+                {
+                    "name": "トモットモット"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "何度でもデスタワー",
+            "name": "ガチエンジョイ勢",
+            "members": [
+                {
+                    "name": "おどりばさんしろう"
+                },
+                {
+                    "name": "あどのでぃすおむにす"
+                },
+                {
+                    "name": "ふれんちふるーらー"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "残業好きな鮭畜",
+            "name": "海の家",
+            "members": [
+                {
+                    "name": "みずお◎ミ"
+                },
+                {
+                    "name": "しょうろんぽ"
+                },
+                {
+                    "name": "mike"
+                },
+                {
+                    "name": "TW★Wommyうみ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆運動会",
+            "name": "いくらようちえん",
+            "members": [
+                {
+                    "name": "あいねね"
+                },
+                {
+                    "name": "　　　はとだもん"
+                },
+                {
+                    "name": "みずお"
+                },
+                {
+                    "name": "わんお"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "世界基準の夏祭り",
+            "name": "すごいぐあいわるいずわいがに",
+            "members": [
+                {
+                    "name": "かわからきたおかっぴ"
+                },
+                {
+                    "name": "ややカツヤマカツジ"
+                },
+                {
+                    "name": "まつもと"
+                },
+                {
+                    "name": "QwQ*まじんむぅ。"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "進撃の全討伐",
+            "name": "デスサモ宮軍団",
+            "members": [
+                {
+                    "name": "ショコヅナ"
+                },
+                {
+                    "name": "12"
+                },
+                {
+                    "name": "スシネビュラ"
+                },
+                {
+                    "name": "きたじまパブろう"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "とりあえず運ぶのじゃ",
+            "name": "高齢者の熱中症対策",
+            "members": [
+                {
+                    "name": "わっくー"
+                },
+                {
+                    "name": "c n"
+                },
+                {
+                    "name": "やってみんと"
+                },
+                {
+                    "name": "ぴろえ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "水没の希望の星",
+            "name": "Red_Marine",
+            "members": [
+                {
+                    "name": "あすてる"
+                },
+                {
+                    "name": "あいびぃ"
+                },
+                {
+                    "name": "モコモコ"
+                },
+                {
+                    "name": "れしーばー"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "昔からのテッキュウ愛",
+            "name": "Shin Hair",
+            "members": [
+                {
+                    "name": "ユーフォえいが8/4"
+                },
+                {
+                    "name": "UZ"
+                },
+                {
+                    "name": "モーニング☆スター"
+                },
+                {
+                    "name": "りっかちょん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "クマサン商会の正社員",
+            "name": "イカたちはどう生きるか",
+            "members": [
+                {
+                    "name": "Sunny"
+                },
+                {
+                    "name": "GUaMU"
+                },
+                {
+                    "name": "ハチワレ"
+                },
+                {
+                    "name": "ガノンさまのてした"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆女神",
+            "name": "ホタルノアカリ",
+            "members": [
+                {
+                    "name": "あいとまん"
+                },
+                {
+                    "name": "たかひろ"
+                },
+                {
+                    "name": "HD*TR?¿"
+                },
+                {
+                    "name": "ゆめみるどぶ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "届かなかった鮭畜",
+            "name": "リベンジャーズ　鮭畜",
+            "members": [
+                {
+                    "name": "クマサン"
+                },
+                {
+                    "name": "あかふく"
+                },
+                {
+                    "name": "FUKA:)"
+                },
+                {
+                    "name": "kakeru"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "クマサン商会の正社員",
+            "name": "ガーデンコール",
+            "members": [
+                {
+                    "name": "はづき"
+                },
+                {
+                    "name": "ものくろっかす"
+                },
+                {
+                    "name": "D-BOY"
+                },
+                {
+                    "name": "だけん"
+                },
+                {
+                    "name": "SN+マポち"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "ポンポンエイ！",
+            "name": "冷やし中華食べたい",
+            "members": [
+                {
+                    "name": "くけこか"
+                },
+                {
+                    "name": "トップトコVT"
+                },
+                {
+                    "name": "ぼれろ"
+                },
+                {
+                    "name": "カタパしょりはん"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "てっきゅー全討伐",
+            "name": "チームふみふみ",
+            "members": [
+                {
+                    "name": "ナロンYoutube"
+                },
+                {
+                    "name": "さくらもち"
+                },
+                {
+                    "name": "しゅぴのしっぽ"
+                },
+                {
+                    "name": "みんと/ようつべ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "シャケシャケのシャケラッシュ",
+            "name": "シャケドラント",
+            "members": [
+                {
+                    "name": "だいさんのはり"
+                },
+                {
+                    "name": "10"
+                },
+                {
+                    "name": "なにぬねの"
+                },
+                {
+                    "name": "PARじゃけ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "常夏のSUMMER",
+            "name": "ぽてそばわたたん",
+            "members": [
+                {
+                    "name": "やきそばなぎさ*"
+                },
+                {
+                    "name": "しらくもわたあめ"
+                },
+                {
+                    "name": "ロング・みー・ポテト"
+                },
+                {
+                    "name": "シオたん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "大人の労働組合員",
+            "name": "となりのちゃいままやん",
+            "members": [
+                {
+                    "name": "maoyaan"
+                },
+                {
+                    "name": "ちゃいぞーら"
+                },
+                {
+                    "name": "となりのととみ"
+                },
+                {
+                    "name": "しゃけまま"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "心の中の金イクラ",
+            "name": "We hate Stinger",
+            "members": [
+                {
+                    "name": "なにぬねの"
+                },
+                {
+                    "name": "レミエール"
+                },
+                {
+                    "name": "こたろう"
+                },
+                {
+                    "name": "87ki"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "水没のマスター",
+            "name": "QED. PEPE.",
+            "members": [
+                {
+                    "name": "AKAGI-XqX"
+                },
+                {
+                    "name": "ぺぺせぶん"
+                },
+                {
+                    "name": "ちょこたぷ"
+                },
+                {
+                    "name": "さばかん"
+                },
+                {
+                    "name": "クリィィィム"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "大人のタマヒロイ",
+            "name": "ブロッコリーのレモンサワー漬け",
+            "members": [
+                {
+                    "name": "はくしょくわいせい"
+                },
+                {
+                    "name": "おてゅん"
+                },
+                {
+                    "name": "グイード・ミスタ"
+                },
+                {
+                    "name": "ずるむけ☆キーボくん"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "夜の研究員",
+            "name": "SalmonNETwork",
+            "members": [
+                {
+                    "name": "しののめののVT"
+                },
+                {
+                    "name": "Eto*"
+                },
+                {
+                    "name": "ソルトはかせYtbe"
+                },
+                {
+                    "name": "ふくまるてぬ_VT"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "非常にたくさんのイヌ",
+            "name": "納品音ASMR部",
+            "members": [
+                {
+                    "name": "かりん"
+                },
+                {
+                    "name": "たら"
+                },
+                {
+                    "name": "アンパンマン"
+                },
+                {
+                    "name": "えーちゃーはん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "クマサン商会のお祭り",
+            "name": "新しいアーマーのバイターズ",
+            "members": [
+                {
+                    "name": "がんさん"
+                },
+                {
+                    "name": "いかおんせん"
+                },
+                {
+                    "name": "たんごシャイニーデイ"
+                },
+                {
+                    "name": "まなまる"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "水没のプロ",
+            "name": "プチプチシャケマシーン",
+            "members": [
+                {
+                    "name": "256"
+                },
+                {
+                    "name": "ういふち"
+                },
+                {
+                    "name": "マリーたろう"
+                },
+                {
+                    "name": "しゃけさん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "オカシラシャケとランデヴー",
+            "name": "サカバンバスピスのさしみ",
+            "members": [
+                {
+                    "name": "リーオウ"
+                },
+                {
+                    "name": "ラルティス"
+                },
+                {
+                    "name": "イキリンコたける"
+                },
+                {
+                    "name": "もちもちNo.2ゆみ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "無意識に推し",
+            "name": "IKIGAI",
+            "members": [
+                {
+                    "name": "\"^じ^\""
+                },
+                {
+                    "name": "ひつじん"
+                },
+                {
+                    "name": "だいてんしみゃこあ⬆"
+                },
+                {
+                    "name": "あずきレモン"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "ジャパニーズ推し",
+            "name": "チームまとも（ｺﾜｸﾅｲﾖｰ",
+            "members": [
+                {
+                    "name": "あまみ"
+                },
+                {
+                    "name": "てるてる"
+                },
+                {
+                    "name": "バラ"
+                },
+                {
+                    "name": "かなでLOVEほなみ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "常夏のあげ",
+            "name": "もち",
+            "members": [
+                {
+                    "name": "もろこちらしー！！"
+                },
+                {
+                    "name": "あでにゃん！©︎"
+                },
+                {
+                    "name": "あげもーにゃ！"
+                },
+                {
+                    "name": "リリアリス"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "キミといっしょ",
+            "name": "ラッコとちいちゃんず",
+            "members": [
+                {
+                    "name": "ゆび_けんしょうえん"
+                },
+                {
+                    "name": "キタムラ"
+                },
+                {
+                    "name": "サケるタコ"
+                },
+                {
+                    "name": "おふとんをはなさない"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "抱きやすいヨコヅナ",
+            "name": "紳士pepper's./",
+            "members": [
+                {
+                    "name": "たいよう"
+                },
+                {
+                    "name": "Tý:Recon./"
+                },
+                {
+                    "name": "yu./"
+                },
+                {
+                    "name": "ろいない"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "でんせつの正社員",
+            "name": "ドスコト・ホールセール",
+            "members": [
+                {
+                    "name": "rit live"
+                },
+                {
+                    "name": "ライ"
+                },
+                {
+                    "name": "ブラッディ・メアリー"
+                },
+                {
+                    "name": "あまえび ¼"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "無意識に鮭畜",
+            "name": "土日バイターズ",
+            "members": [
+                {
+                    "name": "ゆき"
+                },
+                {
+                    "name": "れんく"
+                },
+                {
+                    "name": "たくみん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "心の中のバイトリーダー",
+            "name": "大衆居酒屋みっちょん",
+            "members": [
+                {
+                    "name": "かのん。[SPN]"
+                },
+                {
+                    "name": "ぽち*[SPN]"
+                },
+                {
+                    "name": "せりな{RSC}"
+                },
+                {
+                    "name": "さとうさん"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "あまーい女神",
+            "name": "生クリームに溺れ隊",
+            "members": [
+                {
+                    "name": "さ〜ぴちゅ〜ん"
+                },
+                {
+                    "name": "あ〜る"
+                },
+                {
+                    "name": "おぱんちゅはりねずみ"
+                },
+                {
+                    "name": "しゅぎょうちゅうのみ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "揚げたての唐揚げ",
+            "name": "トリカラ定食",
+            "members": [
+                {
+                    "name": "ひょうけつグレープ"
+                },
+                {
+                    "name": "とこたこ"
+                },
+                {
+                    "name": "にゃんぽん"
+                },
+                {
+                    "name": "»»よせくれん««"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "クマサン商会の新人",
+            "name": "しょうちゃん可愛い",
+            "members": [
+                {
+                    "name": "ミーファンΦ∆Φノ"
+                },
+                {
+                    "name": "しょうちゃん"
+                },
+                {
+                    "name": "(ノ・ω・)ノ "
+                },
+                {
+                    "name": "りもも"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "波乗りクマサン",
+            "name": "ちゃまたろと愉快な仲間たち",
+            "members": [
+                {
+                    "name": "にこにこちゃまたろ"
+                },
+                {
+                    "name": "もかたろ"
+                },
+                {
+                    "name": "わっきー"
+                },
+                {
+                    "name": "ジャンナーなしゃけ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "常夏のサメライド",
+            "name": "ポップコーン〜いくら味〜",
+            "members": [
+                {
+                    "name": "きなこεïз²º²³"
+                },
+                {
+                    "name": "ポプみ"
+                },
+                {
+                    "name": "マキシマムザ☆BBA"
+                },
+                {
+                    "name": "br*εïз²º²³"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "もうすぐ締め切りのくいしんぼう",
+            "name": "箱とカムとフヅノクン",
+            "members": [
+                {
+                    "name": "まゆ/"
+                },
+                {
+                    "name": "だんぼー(クセモノ)"
+                },
+                {
+                    "name": "かむかむかむ"
+                },
+                {
+                    "name": "フジノクン"
+                },
+                {
+                    "name": "ニトチーくん。"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶるイヌ",
+            "name": "シャケしばきよりるーしばき",
+            "members": [
+                {
+                    "name": "オズワルド"
+                },
+                {
+                    "name": "まるまる*"
+                },
+                {
+                    "name": "るー*"
+                },
+                {
+                    "name": "しょ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "ワールドツアー中のSUMMER",
+            "name": "K.M³.Revolution",
+            "members": [
+                {
+                    "name": "Lv*ぱちを"
+                },
+                {
+                    "name": "Lv*αβs"
+                },
+                {
+                    "name": "ニケ"
+                },
+                {
+                    "name": "まめこ³"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "オレのテッキュウ",
+            "name": "俺のはるやfeat.だい",
+            "members": [
+                {
+                    "name": "はるーや"
+                },
+                {
+                    "name": "kak'u'ごりら"
+                },
+                {
+                    "name": "たまごちゃん"
+                },
+                {
+                    "name": "だい"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あわてんぼうのサメライド",
+            "name": "スマ部",
+            "members": [
+                {
+                    "name": "さけちぃ★"
+                },
+                {
+                    "name": "ぁやや"
+                },
+                {
+                    "name": "Soma"
+                },
+                {
+                    "name": "Yuta"
+                },
+                {
+                    "name": "カタログまにあわん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆デスタワー",
+            "name": "いつものかたがた",
+            "members": [
+                {
+                    "name": "Jin"
+                },
+                {
+                    "name": "キタ"
+                },
+                {
+                    "name": "ぢぇに"
+                },
+                {
+                    "name": "ハル"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "シャケシャケの金イクラ",
+            "name": "AKAOBI",
+            "members": [
+                {
+                    "name": "mægamibeam"
+                },
+                {
+                    "name": "かろり＿はいしん"
+                },
+                {
+                    "name": "alauda"
+                },
+                {
+                    "name": "やまたにおりがみVT"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "昔からのお祭り",
+            "name": "SSFK・シー",
+            "members": [
+                {
+                    "name": "KT"
+                },
+                {
+                    "name": "しまださん"
+                },
+                {
+                    "name": "ふぉーちゃん"
+                },
+                {
+                    "name": "さがちー ごてゃ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "イケメンのテクニシャン",
+            "name": "うさマルと3人の騎士",
+            "members": [
+                {
+                    "name": "マルチーズしょちょう"
+                },
+                {
+                    "name": "うさマル"
+                },
+                {
+                    "name": "こじゃけ"
+                },
+                {
+                    "name": "Nicky"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶるLOVE",
+            "name": "コジャケは友達",
+            "members": [
+                {
+                    "name": "しーた"
+                },
+                {
+                    "name": "でれさん*TR*"
+                },
+                {
+                    "name": "しあ"
+                },
+                {
+                    "name": "コダマ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "タマヒロイにエイ！",
+            "name": "ぴよれのん",
+            "members": [
+                {
+                    "name": "ぴっぴ"
+                },
+                {
+                    "name": "レガートゲピー"
+                },
+                {
+                    "name": "Watermenon"
+                },
+                {
+                    "name": "よぞら"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆エイ！",
+            "name": "折り紙付きの黒猫勇者",
+            "members": [
+                {
+                    "name": "yuuki ツイッチ"
+                },
+                {
+                    "name": "おり"
+                },
+                {
+                    "name": "ねこじらふ"
+                },
+                {
+                    "name": "ばんぐろ"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "となりの希望の星",
+            "name": "Destiny Second",
+            "members": [
+                {
+                    "name": "Ds_りょもїΩ"
+                },
+                {
+                    "name": "えんじぇる"
+                },
+                {
+                    "name": "おかっち"
+                },
+                {
+                    "name": "それいけぇ！"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "夜のランデヴー",
+            "name": "全員息子います",
+            "members": [
+                {
+                    "name": "すずき"
+                },
+                {
+                    "name": "くさんた"
+                },
+                {
+                    "name": "ちびすけ つべ"
+                },
+                {
+                    "name": "こうゆ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "揚げたてのカルパッチョ",
+            "name": "鮭熊第三",
+            "members": [
+                {
+                    "name": "あむ"
+                },
+                {
+                    "name": "Luno"
+                },
+                {
+                    "name": "Giblin"
+                },
+                {
+                    "name": "て"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "大人のシャケラッシュ",
+            "name": "COOL宅急便",
+            "members": [
+                {
+                    "name": "YMNDR"
+                },
+                {
+                    "name": "taikori"
+                },
+                {
+                    "name": "S130"
+                },
+                {
+                    "name": "JUJURU TV"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "水没のナイス",
+            "name": "ナイス界隈",
+            "members": [
+                {
+                    "name": "SS*ぬいぬい"
+                },
+                {
+                    "name": "SS*いちじく"
+                },
+                {
+                    "name": "ななしまあさみ"
+                },
+                {
+                    "name": "きゅー"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "いつまでも新人アルバイター",
+            "name": "メトロでスクエアに里帰り",
+            "members": [
+                {
+                    "name": "ころも"
+                },
+                {
+                    "name": "しあがってます"
+                },
+                {
+                    "name": "Bこまちジュンマ"
+                },
+                {
+                    "name": "ELNJ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "となりのシェケナダム",
+            "name": "Stinger Satay",
+            "members": [
+                {
+                    "name": "Minaraii"
+                },
+                {
+                    "name": "SoL"
+                },
+                {
+                    "name": "Sora 5H"
+                },
+                {
+                    "name": "αƒ sτι©"
+                },
+                {
+                    "name": "Mick"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "進撃の姫",
+            "name": "コントブラック",
+            "members": [
+                {
+                    "name": "syofa"
+                },
+                {
+                    "name": "かぞくがいるんです"
+                },
+                {
+                    "name": "キムチ"
+                },
+                {
+                    "name": "Raru."
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "キミといっしょ",
+            "name": "みずちーむ",
+            "members": [
+                {
+                    "name": "みずち"
+                },
+                {
+                    "name": "あねじゃ"
+                },
+                {
+                    "name": "なーなはイチゴあじ！"
+                },
+                {
+                    "name": "のうきんポテト"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "クマサン商会の鮭畜",
+            "name": "Pearl",
+            "members": [
+                {
+                    "name": "-chariot-"
+                },
+                {
+                    "name": "Pico"
+                },
+                {
+                    "name": "るりあ"
+                },
+                {
+                    "name": "えくれあ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "でんせつの唐揚げ",
+            "name": "DNYS",
+            "members": [
+                {
+                    "name": "ゆうぢ.Twitch"
+                },
+                {
+                    "name": "でんてゃん/"
+                },
+                {
+                    "name": "しらいぴのん_ttv"
+                },
+                {
+                    "name": "nskw"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "クマサン商会の労働組合員",
+            "name": "オタクな酒屋鈴木酒店サモラン部",
+            "members": [
+                {
+                    "name": "オタクな★さかや™"
+                },
+                {
+                    "name": "おちゃハイ"
+                },
+                {
+                    "name": "ミカン"
+                },
+                {
+                    "name": "タコ"
+                },
+                {
+                    "name": "リファイン"
+                },
+                {
+                    "name": "96IMUNA"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "夜のEXTRA WAVE",
+            "name": "はじめてのサーモンラン",
+            "members": [
+                {
+                    "name": "にくうどん"
+                },
+                {
+                    "name": "ダ☆ダ☆ダ☆ダンゴ"
+                },
+                {
+                    "name": "|´・ω・`)しょだ"
+                },
+                {
+                    "name": "2JIMaika"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆デスタワー",
+            "name": "みみなりポテトサラダ",
+            "members": [
+                {
+                    "name": "ツナまよ"
+                },
+                {
+                    "name": "じゃがもも"
+                },
+                {
+                    "name": "はんなりはん"
+                },
+                {
+                    "name": "みみみみーん"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "非常にたくさんの抱き枕",
+            "name": "３度のメシより昼寝が好き",
+            "members": [
+                {
+                    "name": "きょうじゅろ"
+                },
+                {
+                    "name": "せんじゅろう"
+                },
+                {
+                    "name": "ゆぅな。"
+                },
+                {
+                    "name": "じ。"
+                },
+                {
+                    "name": "とんがりコーン2"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "タツの唐揚げ",
+            "name": "それゆけタバスコガチ勢",
+            "members": [
+                {
+                    "name": "マックン！"
+                },
+                {
+                    "name": "しゃけはともだち"
+                },
+                {
+                    "name": "ふるるん"
+                },
+                {
+                    "name": "るも"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "残業好きな正社員",
+            "name": "休日返上タスクフォース",
+            "members": [
+                {
+                    "name": "ブライアン・タコナー"
+                },
+                {
+                    "name": "Akiiiii"
+                },
+                {
+                    "name": "momo/106"
+                },
+                {
+                    "name": "ますたそ VT"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "クマサン商会のアルバイター",
+            "name": "クマサン商会直属北海道遠征支部",
+            "members": [
+                {
+                    "name": "よもぎアイスYT"
+                },
+                {
+                    "name": "さだはるTVようつべ"
+                },
+                {
+                    "name": "ただすけ ようつべ"
+                },
+                {
+                    "name": "たかしゃωパラダイス"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "トキメキ☆アルバイター",
+            "name": "田中同好会",
+            "members": [
+                {
+                    "name": "sayaka"
+                },
+                {
+                    "name": "いえもん"
+                },
+                {
+                    "name": "かえでちゃん"
+                },
+                {
+                    "name": "ギコギコはしません！"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "常夏の鮭畜",
+            "name": "しょーもなげーみんぐ",
+            "members": [
+                {
+                    "name": "むろつよし"
+                },
+                {
+                    "name": "たこはじめ"
+                },
+                {
+                    "name": "™️5soup"
+                },
+                {
+                    "name": "・×・"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あわてんぼうの新人アルバイター",
+            "name": "だれざぶろう",
+            "members": [
+                {
+                    "name": "さくざぶろう"
+                },
+                {
+                    "name": "りんざぶろう"
+                },
+                {
+                    "name": "ぐみざぶろう"
+                },
+                {
+                    "name": "びきざぶろう"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "とりあえずイヌ",
+            "name": "teamageHa",
+            "members": [
+                {
+                    "name": "サモじい"
+                },
+                {
+                    "name": "ぴーじゅに"
+                },
+                {
+                    "name": "うるふぃーch"
+                },
+                {
+                    "name": "☆お☆は☆ぎ☆"
+                }
+            ],
+            "push": "umi"
+        }
+    ]
+}

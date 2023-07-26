@@ -1,0 +1,3123 @@
+{
+    "teams": [
+        {
+            "futatsuna": "トキメキ☆イクラ投げ",
+            "name": "paint fun",
+            "members": [
+                {
+                    "name": "pf_ハマチ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "pf_とらちゃん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "pf_かみさま",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Ray",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "実は敵",
+            "name": "スノーと愉快な仲間たち",
+            "members": [
+                {
+                    "name": "しっぽブンブンまる",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "スノー1024",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "p o n",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "けいこうしゃ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ゆきち",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "実はクマサン",
+            "name": "綿棒",
+            "members": [
+                {
+                    "name": "カンストしたい",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "カンテン",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "キャロル",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "せんとちひろ·_·",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "クマサン商会労働組合員",
+            "name": "シャケしばき部",
+            "members": [
+                {
+                    "name": "REI",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "のらねこ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "のりまろ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "leaf",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "無意識にイクラ投げ",
+            "name": "アットホームワーカーズ",
+            "members": [
+                {
+                    "name": "ひゃくじゅうハチワレ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "まめおじ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "なつ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "いも",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "生まれたてのペイン",
+            "name": "北極ペンギン",
+            "members": [
+                {
+                    "name": "Bё⌒☆",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "pichu⌒☆",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ペンちゃん^v^⌒★",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "SAKI⌒☆",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "大人の運動会",
+            "name": "優勝しなかったらエペやめます！",
+            "members": [
+                {
+                    "name": "さけかすぱでみ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "さけかすにもちゃ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "えぺしたいこた",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "もりもとしんたろう",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あらぶるオカシラ",
+            "name": "オカシラ大量発生",
+            "members": [
+                {
+                    "name": "わっしょい_こなまる",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "げきからなっしゅ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "gimeru",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "どまぁすぅ↓んね",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "となりのクマサン",
+            "name": "鮭の国から(2023)",
+            "members": [
+                {
+                    "name": "+ぁヤー！",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "+ふじぜるくん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "((・×・)) ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "めん",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "まんぷくなアルバイター",
+            "name": "ハッピーだいふくいちご味",
+            "members": [
+                {
+                    "name": "*チキンライス",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "だいふく",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "みおけー",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ひのまる",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "さち",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あなただけの抱き枕",
+            "name": "ハローワールド",
+            "members": [
+                {
+                    "name": "わら",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "雷太スター",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "はくまい",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "イカやさん",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "かけだしの希望の星",
+            "name": "かけだしシャケしばき隊",
+            "members": [
+                {
+                    "name": "KSS_はるこ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "KSS_りょーこ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "KSS_キミ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "KSS_≫わっしょい",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "シャケシャケのシャケラッシュ",
+            "name": "りりりうむ",
+            "members": [
+                {
+                    "name": "よちょ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "あんにん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "えび",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "しょこ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆金イクラ",
+            "name": "アッシュテイル",
+            "members": [
+                {
+                    "name": "たんぷら",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ヨナグニン",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ひれおくん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いん",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "無意識にイクラ投げ",
+            "name": "満潮泥鮭希望※何卒",
+            "members": [
+                {
+                    "name": "いのちﾁｬﾏ♪",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "みん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "しっぽ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ずわいエビ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "まんぷくな納品レンジャー",
+            "name": "丹後岸松温泉郷",
+            "members": [
+                {
+                    "name": "がんさん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いかおんせん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "マツトウヤタンゴ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "まつぼっくり",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "ワールドツアー中のイカ",
+            "name": "ペットショップ「タマヒロイ」",
+            "members": [
+                {
+                    "name": "めん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ひよっこわかばちゃん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "（・＜・）",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ゆうどうして！/ST",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "いちずなテッキュウ愛",
+            "name": "みん窓鮭走部",
+            "members": [
+                {
+                    "name": "やくも",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "おーじ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ばふぁめろん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "どーり",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "夜の処理班",
+            "name": "よるがた",
+            "members": [
+                {
+                    "name": "ともぬん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "のんちゃ!!!",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "わちゃ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぱん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆全討伐",
+            "name": "(株)はっぴーしゃけしゃけ",
+            "members": [
+                {
+                    "name": "みるきち",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "nu",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぱん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "gucci",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "目指すは労働組合員",
+            "name": "源泉徴収",
+            "members": [
+                {
+                    "name": "samu",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ゆゆまる",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "zaki",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "よしこ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "届かなかったヘルプ",
+            "name": "アルティメットタワー瞬殺隊",
+            "members": [
+                {
+                    "name": "ashita*",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "こえびちゃん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "よしおかよしと",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "み り ん ぬ^^",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "なかみんさん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "実は野良ネズミ",
+            "name": "酒と鮭のうほうほ",
+            "members": [
+                {
+                    "name": "にの",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "げにゅ✩まどちゃん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "エルヴェルヴェ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "うほうほゴリラいあ！",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "かけだしの新人",
+            "name": "まったりオルカン勢の集い",
+            "members": [
+                {
+                    "name": "りょーた",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "サーヤ！",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "[ゆっくり]",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ジュン",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "でんせつのバイトリーダー",
+            "name": "狸汁",
+            "members": [
+                {
+                    "name": "おさかなあ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "マル",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "Na-A",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "モナ蔵",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "野良ネズミのマスター",
+            "name": "ノーミス・クアドラプル",
+            "members": [
+                {
+                    "name": "Meruru",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "イニ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "なぎ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "おふとんをはなさない",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "おいしい唐揚げ",
+            "name": "考え中",
+            "members": [
+                {
+                    "name": "あぶりえんがわ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "わさのん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "タム",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "やみ〜ちきん",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆納品レンジャー",
+            "name": "スーパーシャケ戦隊！",
+            "members": [
+                {
+                    "name": "くろき",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "まさお",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ねゆ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "Bas1L",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あわてんぼうのバイトリーダー",
+            "name": "転生したら乱獲勢だった件",
+            "members": [
+                {
+                    "name": "うっきぃё",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "はがねのメンタル",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ももじり",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "てつどー／",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "期待の納品レンジャー",
+            "name": "納品部水没班withぽいぽい",
+            "members": [
+                {
+                    "name": "コポ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "しぐなる",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ねくすと",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぱッくん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆シャケラッシュ",
+            "name": "らりるれろ",
+            "members": [
+                {
+                    "name": "プリンたべたい",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "まつたけ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "どーば",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぱん( '-'  )",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "オカシラシャケの唐揚げ",
+            "name": "Re:ink",
+            "members": [
+                {
+                    "name": "にかまるさん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ぽえまるくん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "けろちゃん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "りかぴーまん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "バイト戦隊新人",
+            "name": "納品戦隊イレルンジャー",
+            "members": [
+                {
+                    "name": "ぜまし",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "めかぱんだころ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ゆりりん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Gabriella",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "とりあえずデスタワー",
+            "name": "褐色のぽんこつすたーたこ＋",
+            "members": [
+                {
+                    "name": "あにょぽんこつ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "すたーらいとはーにゃ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "えすやき",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "りく＋",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "かっしょく",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "オカシラシャケのハーレム",
+            "name": "シャケ41特撰隊",
+            "members": [
+                {
+                    "name": "ゆっきん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "つちぬこ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "130くん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "**かつおぶし",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "私とテッキュウ",
+            "name": "せおいなげ〜",
+            "members": [
+                {
+                    "name": "ぺんくん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "へほまる",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "たぬこ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Q",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆イカ",
+            "name": "もちーむ",
+            "members": [
+                {
+                    "name": "はなまる",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "けん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "もち",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ワドルディファン",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "水没のサメライド",
+            "name": "迫り来るコジャケの恐怖",
+            "members": [
+                {
+                    "name": "たしぼー",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いるみ*",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "みみずく",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "わっしょい87",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "お腹がやられた",
+            "name": "緑黄色動物",
+            "members": [
+                {
+                    "name": "ゆった～",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Masser",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "つたすけ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "デカイイヌ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆姫",
+            "name": "みどな親衛隊",
+            "members": [
+                {
+                    "name": "びび",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ちび",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あきかん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "あゆみ→",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "無意識にランデヴー",
+            "name": "ノリノリ",
+            "members": [
+                {
+                    "name": "ノリノリのラウラウ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "やきのり*ノリノリ◎",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あじのり*ノリノリ◎",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "オニキスはノリノリ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "進撃のたつじん",
+            "name": "鮭イクラ昆布ツナマヨ",
+            "members": [
+                {
+                    "name": "ぐみ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "うね",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "アンドロメダしゅん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "タツシンNW",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ごんぞうさん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "たつこNW",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "でんせつの記念日",
+            "name": "らくちゅ~",
+            "members": [
+                {
+                    "name": "krmebsn",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ケニャ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ゲルググ・V",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "わんたん",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "目指すはアルバイター",
+            "name": "みけちGCT",
+            "members": [
+                {
+                    "name": "あらごしみかん。",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "そらかけ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ねこ^._.^",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "やみこ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "期待のサメライド",
+            "name": "サメライ戦隊サメライジャー",
+            "members": [
+                {
+                    "name": "SR　よなよ～な",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "SR　ラスカル",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "SR　タム",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "SR　ふーたろ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "SR　メッシ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "夜のバイトリーダー",
+            "name": "都庁",
+            "members": [
+                {
+                    "name": "あおばちゃんようつべ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "れいわちゃんようつべ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "とうもころし",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ペカヌチャン",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "バイト戦隊納品レンジャー",
+            "name": "クマさんの下僕たちは腹ペコ",
+            "members": [
+                {
+                    "name": "ぬまっち",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "にゅんとぽんず",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "くらげ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "みかみぃ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "トキメキ☆鮭畜",
+            "name": "マンタローガチ恋勢",
+            "members": [
+                {
+                    "name": "ゆーさん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あーるちゃん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "はんばーぐ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "な",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "届かなかったヘルプ",
+            "name": "ROSAI ZERO",
+            "members": [
+                {
+                    "name": "daays",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "つめたくなったじん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ツララ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "キュアらるぴ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "納品担当姫",
+            "name": "鮭サーの姫",
+            "members": [
+                {
+                    "name": "スプラローラーTV",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ラピエリだいすきTV",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "クラブラだいすきTV",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "進撃のテッキュウ",
+            "name": "ZC",
+            "members": [
+                {
+                    "name": "ZC_ハルマキ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ZC_Sin",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "こむぎパァン",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "アるとぅぉ〜",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "絶妙なパフェ",
+            "name": "みけちーず",
+            "members": [
+                {
+                    "name": "にこ○*",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "かぁこ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "もぐぴ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "あんたっく",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "生まれたてのテッキュウ",
+            "name": "いかになるくろのそら",
+            "members": [
+                {
+                    "name": "いかがらいかつやく",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "そらちゃん®️",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "クロノ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "なるなる",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "恋のLOVE",
+            "name": "荒巻ぴゅあえんじぇるず",
+            "members": [
+                {
+                    "name": "じゅじゅびす",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ぼんざぶろう",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "とろろちゃん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "てるびち",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "nimurag",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "バイト戦隊鮭畜",
+            "name": "アラマキ印のタコアシ商会",
+            "members": [
+                {
+                    "name": "シロネコ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "aziyan",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "こつこつ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "たぴぉ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "心の中のシャケラッシュ",
+            "name": "鮭熊第三",
+            "members": [
+                {
+                    "name": "あむ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Luno",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Giblin",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "て",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "届かなかったイクラ投げ",
+            "name": "仕上げはおかあさん",
+            "members": [
+                {
+                    "name": "たけりん☆ミ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "もあ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "しあん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "アクア",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "心の中のバイトリーダー",
+            "name": "ATTP",
+            "members": [
+                {
+                    "name": "あいとまん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "たかひろ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "HD*TR?¿",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "むめい",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "オカシラシャケの唐揚げ",
+            "name": "元メイプラー",
+            "members": [
+                {
+                    "name": "くぬぺ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ず",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "キバオウ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ぎゅうすじにこみ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "大人の金イクラ",
+            "name": "金いくらきゃのん",
+            "members": [
+                {
+                    "name": "ばれくつんぱちきゃの",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ほりみー",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "レッドホットきょろみ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "サメゆイド",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆アルバイター",
+            "name": "1000レベ",
+            "members": [
+                {
+                    "name": "さ〜ぴちゅ〜ん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "かなぢ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "１レベ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Ub_みーちゃん",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "離れたところでデスタワー",
+            "name": "レンタルバイトしない人",
+            "members": [
+                {
+                    "name": "とみりゅー",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "コンソメ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ネピア",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ろく",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "夜の姫",
+            "name": "My mellow eggs",
+            "members": [
+                {
+                    "name": "はっち",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "みゆみゆー",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ねごねご",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ごはんのおかず",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "オカシラシャケの唐揚げ",
+            "name": "★ドン・ブラコ沈めたろ★",
+            "members": [
+                {
+                    "name": "〈ミント*゜〉",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "うさぎぴょん☆ひすい",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "えむ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "届かなかったタマヒロイ",
+            "name": "そんなこともアラマキ",
+            "members": [
+                {
+                    "name": "おっどせい",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ピコ ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "けっつ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ACT340",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "カレー好きなクマサン",
+            "name": "イカタコの皮を被ったシャケ同盟",
+            "members": [
+                {
+                    "name": "もちこ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "わたしは　たいほうよ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "おじー",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "りた",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶる鮭畜",
+            "name": "ガーデンコール",
+            "members": [
+                {
+                    "name": "はづき",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "なかさき さき",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "D-BOY",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "SN+マポち",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あなただけの唐揚げ",
+            "name": "突撃‼︎となりのちゃいままやー",
+            "members": [
+                {
+                    "name": "maoyaan",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ちゃいぞーら",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "しゃけまま",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "となりのととみ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "進撃のテッキュウ",
+            "name": "フリーザ様と下僕たち",
+            "members": [
+                {
+                    "name": "BR*うに~ω~zz",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "おっくん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "△マル□",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "rikku",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "もうすぐ締め切りの鮭畜",
+            "name": "ゆっくり商会",
+            "members": [
+                {
+                    "name": "うにゃ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "とつもり",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ななっし～",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "おどろく",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶるヘルプ",
+            "name": "一心同体style　NEXT",
+            "members": [
+                {
+                    "name": "まつさ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "はかい",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "★のうきん☆",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "きんぴら",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "マッスルヘッドおかだ",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "無意識に塗る",
+            "name": "めるしーず",
+            "members": [
+                {
+                    "name": "okwk/merci",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "pino/merci",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Ken/merci",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "とも/merci",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あらぶるLOVE",
+            "name": "婚姻の悪魔",
+            "members": [
+                {
+                    "name": "Chiroru☆",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ペコ☆",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "さも☆",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "GEM☆",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "水没のプロ",
+            "name": "ウキワで全力疾走",
+            "members": [
+                {
+                    "name": "むーにゃん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "めりお",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "はるさめりぜ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "むちょわた",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆アルバイター",
+            "name": "老後への備え",
+            "members": [
+                {
+                    "name": "さつきちゃん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "てと",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "こたこちゃん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "むぎ*かよちゃん",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "ビッグラン記念日",
+            "name": "タリナイ～199個の金イクラ～",
+            "members": [
+                {
+                    "name": "コダイモウソウキョウ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "わつこデラックス",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ぶんなげろこばやし",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Yuuki",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "実は発売中",
+            "name": "アンメルツ",
+            "members": [
+                {
+                    "name": "k",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "みくり",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "taikori",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "S130",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "俺のデスタワー",
+            "name": "ちょーや♪",
+            "members": [
+                {
+                    "name": "ローレル/",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Miki/",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "KOTO/",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ちょや 5さい",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶるLOVE",
+            "name": "配信者スプラ部！！サモラン1課",
+            "members": [
+                {
+                    "name": "シェロVT",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "IKUs",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "メロンなのだ！！！",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "アイノ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "チヴェッタ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Nanao",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "シャケシャケの鮭畜",
+            "name": "妖精と戯れるエンジヲイ党",
+            "members": [
+                {
+                    "name": "ふぇありーてｲる☆",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "caypeかいぺ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ぺ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "タヌきち",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "クマサン商会労働組合員",
+            "name": "クマサン傘下",
+            "members": [
+                {
+                    "name": "あきばな",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "へるねこん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "are",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "モモコG.C",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "進撃のアルバイター",
+            "name": "Tiny RUN",
+            "members": [
+                {
+                    "name": "しゅんくん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "azusa",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "りんごじぇむ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "さ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "無意識に鮭畜",
+            "name": "鮭畜〜終わらないバイト生活〜",
+            "members": [
+                {
+                    "name": "あんぺあ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "えりんぎ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "みかん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "しゅうまい",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "昔からの新人",
+            "name": "おんぶにだっこ",
+            "members": [
+                {
+                    "name": "＊yui＊",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "はとさん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "Nex-A←てるふな",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "きーろ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "おいしい金イクラ",
+            "name": "いくら缶",
+            "members": [
+                {
+                    "name": "レイチェル",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "かずせん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "おちゃ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "マコカン",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "目指すは優勝",
+            "name": "のうひんいちねんせい",
+            "members": [
+                {
+                    "name": "あいされすぎてクマ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "カプサイシンよしざわ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "おまめ。",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "アルス",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "生まれたての希望の星",
+            "name": "The Comets",
+            "members": [
+                {
+                    "name": "ナトリウム/TPoF",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "うい('～′)*©。",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ひーす*",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Amerug",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "やっぱり鮭畜",
+            "name": "復活のじめキッズ",
+            "members": [
+                {
+                    "name": "24さいかいしゃいん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "おこーば",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "あやぴっぴ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "もふもふξowoξ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "イケメンのクマサン",
+            "name": "ゆうきをもってアフロをじらふっ",
+            "members": [
+                {
+                    "name": "yuuki ツイッチ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ねこじらふ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Lox＿VT",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ハイパーとりももにく",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "お腹がペイン",
+            "name": "不香の花＊KR",
+            "members": [
+                {
+                    "name": "ろいない",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "けんけん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ルカナ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Reċøn.//",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "おいしいタマヒロイ",
+            "name": "パジャマパーティーズ",
+            "members": [
+                {
+                    "name": "きなこもち",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "miz",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ニノ♪(・‐・)>",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "トキメキ☆金イクラ",
+            "name": "いたずらごころ",
+            "members": [
+                {
+                    "name": "じゃぽにか",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "tki",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "にょきにょきかばお",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "サラー",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "まんぷく希望の星",
+            "name": "白銀の北",
+            "members": [
+                {
+                    "name": "暇人",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "シロン",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Bob",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ぎんれい",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あらぶるテッキュウ愛",
+            "name": "大波乱サーモンブラザーズ",
+            "members": [
+                {
+                    "name": "オパール",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "麦",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "りべりおん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ナウシカ",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "とりあえず全討伐",
+            "name": "魚類憐みの令",
+            "members": [
+                {
+                    "name": "もふもふ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "DJROW",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "さとぅーん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "dekoboko",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "レオル",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "かけだしの鮭畜",
+            "name": "かよわいイカちゃんたち",
+            "members": [
+                {
+                    "name": "Ganglion",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ホーム/",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "#Rlbr",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "かよわいイカちゃん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケの希望の星",
+            "name": "SAMURAI",
+            "members": [
+                {
+                    "name": "ゆづぽん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あたまキー",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "のら",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ライ-Thunder",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆タマヒロイ",
+            "name": "帝国学園",
+            "members": [
+                {
+                    "name": "はる",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "★ともゆき★",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "〆☆みかんJr☆〆",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ティラミス",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "届かなかった唐揚げ",
+            "name": "ソレクレー・コレクレー",
+            "members": [
+                {
+                    "name": "あでりーぺんぎん∴",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "エコ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "しょうりのほし",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いーじゃん！ビタみん",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あまーい金イクラ",
+            "name": "おかしだーいすき",
+            "members": [
+                {
+                    "name": "きなこ*²º²³",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "みつ*²º²³",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ポップコーンまる",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "チャオ*",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "夜のタマヒロイ",
+            "name": "SLC鮭走パート",
+            "members": [
+                {
+                    "name": "しゃけこFあきを",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "カナタソ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "にる",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "んもず(あけおめ)",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "でんせつの姫",
+            "name": "CLASH♡",
+            "members": [
+                {
+                    "name": "みづきち",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "みかん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ゆうか",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "イブのくらげ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "目指すはデスタワー",
+            "name": "卍金玉卍リベンジャーズ2",
+            "members": [
+                {
+                    "name": "JUJURU TU",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "きゅー",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "めめめめめ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Brownyyy",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "おいしいタマヒロイ",
+            "name": "乱獲童貞",
+            "members": [
+                {
+                    "name": "のむら",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "しょーーゆ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ますだ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "なまごりら",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "おいしい唐揚げ",
+            "name": "強欲の壺",
+            "members": [
+                {
+                    "name": "うみー½",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "さぽ ホロりす",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "alkali",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "たつみな½",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "でんせつのアルバイター",
+            "name": "残り物の福",
+            "members": [
+                {
+                    "name": "c",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "YMNDR",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "しょうめんテッキュウ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "4<\"",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケのお祭り",
+            "name": "たびおか",
+            "members": [
+                {
+                    "name": "mægamibeam",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "たわさんぼん",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "かろり",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "おろち",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "まんぷく記念日",
+            "name": "食べログ★5〜ヤマ盛にっこ茶漬",
+            "members": [
+                {
+                    "name": "ヤマハル",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "にっこり",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "おたべ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ぴーちゃみ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "クマサン商会アルバイター",
+            "name": "鮭ヶ咲学園クマサンバイト同好会",
+            "members": [
+                {
+                    "name": "くち",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "kazu",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ショコラ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "なり",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "カレー好きな処理班",
+            "name": "まかないは金イクラカレー",
+            "members": [
+                {
+                    "name": "カレーだいじんなっく",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "つけなぽりたん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Bëni",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "イービィ(>ω<)",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "コジャケ担当アルバイター",
+            "name": "コジャケ温泉",
+            "members": [
+                {
+                    "name": "ちぇとん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "SPa-A*とうふ♪",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "アルミ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "たらこ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆シャケラッシュ",
+            "name": "NEWシェケWAVE",
+            "members": [
+                {
+                    "name": "はるぱふぇたべたい",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "NKAN†hiro",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "〆KSD_sho",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "とり",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "目指すはボスネズミ",
+            "name": "シャケミン3",
+            "members": [
+                {
+                    "name": "ゆきしろほのか",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "きたないぴくみん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "しの",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "うゆ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "いちずな新人",
+            "name": "パワハラぴょえーん",
+            "members": [
+                {
+                    "name": "かりゅ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ちゃー",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "みずの",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "さの",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "シャケシャケのお祭り",
+            "name": "ぬるしゃけ討伐隊",
+            "members": [
+                {
+                    "name": "cobalt",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぬるすけ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "かりびとのただ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "いるは",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "ポンポンアルバイター",
+            "name": "メダカの学校",
+            "members": [
+                {
+                    "name": "きあいちゃん！！",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いたみたかしニート",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "はっぴーたろう",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "みかん。",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "かけだしの労働組合員",
+            "name": "ホットプレート大好きクラブ",
+            "members": [
+                {
+                    "name": "Hitshee-JP",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "こーひー。",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ぐれーとふーる",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "えび",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ふー",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆ハーレム",
+            "name": "君に恋する乙女たち",
+            "members": [
+                {
+                    "name": "NERU★*",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "NIRU★*",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "いと",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "かまぼこ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "NARU★*",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "Awake",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あまーい金イクラ",
+            "name": "ぽんDEリング",
+            "members": [
+                {
+                    "name": "ゆぱさま",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ちょこきよ",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "せっさま",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ぱるうらら",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "俺のテッキュウ",
+            "name": "TGI",
+            "members": [
+                {
+                    "name": "Xx_Ryu_xX",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "けちょんけちょん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "クァン・フェグンさま",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "たく",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "目指すは全討伐",
+            "name": "ぐりとぐら",
+            "members": [
+                {
+                    "name": "さぶろうマイクラ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "そういちろう",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "みりん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "けーき",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "なかがわりえこ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "バイト戦隊唐揚げ",
+            "name": "よせあつめズ",
+            "members": [
+                {
+                    "name": "かまぼこ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "たんつぼ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "おばたい",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "のっくん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶる労働組合員",
+            "name": "セクシー本舗２号店",
+            "members": [
+                {
+                    "name": "イクラバクシンオー",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "Rovi",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "まっしろしろすけ！",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "ベニー",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ハーズインチンバーグ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "昔からのタマヒロイ",
+            "name": "教官に叱られるから",
+            "members": [
+                {
+                    "name": "えれこ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "しきぽ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "へーる",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "はるの",
+                    "class": "wiggle3"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "恋のマスター",
+            "name": "27262615",
+            "members": [
+                {
+                    "name": "ばんぐろ",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "マット",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ばんちゃ",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "←あみのぁ→",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶるナイス",
+            "name": "ゆるふわアルバイターと鮭畜",
+            "members": [
+                {
+                    "name": "きききき",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ふじた",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ヨメダス",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "むっちん",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "きみとランデヴー",
+            "name": "IKIGAI",
+            "members": [
+                {
+                    "name": "\"^じ^\"",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ひつじん",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あずきレモン",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "おもちもちもちこねみ",
+                    "class": "wiggle4"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あなただけの希望の星",
+            "name": "ハートを撃ち抜く赤ちゃんズ",
+            "members": [
+                {
+                    "name": "sayaka",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ギコギコはしません！",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "いえもん",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "かえでちゃん",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "とりあえず全討伐",
+            "name": "やばたにえん",
+            "members": [
+                {
+                    "name": "チュかわいくてゴメン",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "う？",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "Яiťü",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "よぽぽぽ",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "夜の全討伐",
+            "name": "黄金鮭捜索隊",
+            "members": [
+                {
+                    "name": "しゃろん",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "え.",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "あのに",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "もぐら",
+                    "class": "wiggle1"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "カンストデスタワー",
+            "name": "Sashimi Paradis",
+            "members": [
+                {
+                    "name": "Minaraii",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "SoL",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "ShrewATK",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "Ako",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": " Rαleι♪",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "thiиsky",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "となりのテッキュウ",
+            "name": "N's Kitchin",
+            "members": [
+                {
+                    "name": "N'sK シナモン★",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "まお",
+                    "class": "wiggle2"
+                },
+                {
+                    "name": "じつは ねこやねん",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "あなただけの抱き枕",
+            "name": "淀川老人会",
+            "members": [
+                {
+                    "name": "ぽんこつεïз",
+                    "class": "wiggle4"
+                },
+                {
+                    "name": "ヤブ",
+                    "class": "wiggle3"
+                },
+                {
+                    "name": "tártufõ*♪",
+                    "class": "wiggle1"
+                },
+                {
+                    "name": "ペリネホビ",
+                    "class": "wiggle2"
+                }
+            ],
+            "push": "umi"
+        }
+    ]
+}
