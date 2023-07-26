@@ -42,7 +42,7 @@ const teamTimer = function() {
             emitter();
             return;
         }
-    },1000);
+    },8000);
 }
 onMounted(() => {
     teamTimer();
