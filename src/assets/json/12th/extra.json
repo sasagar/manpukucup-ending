@@ -17,7 +17,8 @@
                     "name": "ジェノベーゼüゆなな"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "もうイクラしか見えない"
         },
         {
             "futatsuna": "あなただけの金イクラ",
@@ -36,7 +37,8 @@
                     "name": "ヒジ"
                 }
             ],
-            "push": "umi"
+            "push": "umi",
+            "message": "初めてでドキドキですが日頃の鬱憤を晴らせるよう頑張ります！！"
         },
         {
             "futatsuna": "昔からのハーレム",
@@ -55,7 +57,8 @@
                     "name": "mfmf*ペリネホビ"
                 }
             ],
-            "push": "bbq"
+            "push": "bbq",
+            "message": "淀川老人会は毎月第5土曜日に河川敷の清掃活動をしています。"
         },
         {
             "futatsuna": "いつまでも納品レンジャー",
@@ -74,7 +77,8 @@
                     "name": ".しめさば"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "前回はスケジュールミスったポンコツが居ましたが、今回は全員きちんと揃いました！今回こそ上位目指して納品頑張ります！！"
         },
         {
             "futatsuna": "大人の金イクラ",
@@ -90,7 +94,8 @@
                     "name": "キバオウ"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "チームメンバーの納品数少なかったらゴリゴリに不穏します。"
         },
         {
             "futatsuna": "おいしいおいしい",
@@ -98,15 +103,10 @@
             "members": [
                 {
                     "name": "もちもちのMOCHI"
-                },
-                {
-                    "name": ""
-                },
-                {
-                    "name": ""
                 }
             ],
-            "push": "umi"
+            "push": "umi",
+            "message": "今回こそ10位以内を目指します！！"
         },
         {
             "futatsuna": "おいしい金イクラ",
@@ -125,7 +125,8 @@
                     "name": "Clash"
                 }
             ],
-            "push": "bbq"
+            "push": "bbq",
+            "message": "　"
         },
         {
             "futatsuna": "あらぶるくいしんぼう",
@@ -144,7 +145,8 @@
                     "name": "めぐ"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "夏バテを冷やし中華で乗り越えます"
         },
         {
             "futatsuna": "やっぱり難破船ドン・ブラコ",
@@ -166,7 +168,8 @@
                     "name": "みなと"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "いい記録を出せるように頑張ります！！"
         },
         {
             "futatsuna": "大人のテクニシャン",
@@ -188,7 +191,8 @@
                     "name": "omi"
                 }
             ],
-            "push": "hanabi"
+            "push": "hanabi",
+            "message": "は、半分どうぞ…"
         },
         {
             "futatsuna": "夜の希望の星",
@@ -207,7 +211,8 @@
                     "name": "マー"
                 }
             ],
-            "push": "umi"
+            "push": "umi",
+            "message": "某クラゲの人ではありません。しかし今回我々はみなクラゲなのです。"
         }
     ]
 }
