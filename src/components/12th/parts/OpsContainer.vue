@@ -30,7 +30,7 @@ defineProps({
     filter: drop-shadow(0 0 10px #fff);
 
     &.ops {
-        background-image: url('@/assets/images/12th/ops.png');
+        background-image: url('/images/12th/ops.png');
         // .team-background-color{
                 // background-color: rgba(255,255,255,.3);
         // }

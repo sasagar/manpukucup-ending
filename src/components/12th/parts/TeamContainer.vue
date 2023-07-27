@@ -32,7 +32,7 @@ defineProps({
     position: relative;
 
     &.umi {
-        background-image: url('@/assets/images/12th/umi.png');
+        background-image: url('/images/12th/umi.png');
         .team-background-color{
                 background-color: rgba(255,255,255,.3);
         }
@@ -56,7 +56,7 @@ defineProps({
     }
 
     &.hanabi {
-        background-image: url('@/assets/images/12th/hanabi.png');
+        background-image: url('/images/12th/hanabi.png');
         .team-background-color{
                 background-color: rgba(0,0,0,.3);
         }
@@ -79,7 +79,7 @@ defineProps({
     }
 
     &.bbq {
-        background-image: url('@/assets/images/12th/bbq.png');
+        background-image: url('/images/12th/bbq.png');
         .team-background-color{
                 background-color: rgba(255,255,255,.3);
         }

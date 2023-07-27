@@ -6,14 +6,14 @@ const state = defineProps({
 
 <template>
     <div class="charactor-container" :class="{active: state.props}">
-        <img src="@/assets/images/12th/shan.png" alt="しゃん" id="shan" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/yoyomi.png" alt="よよみ" id="yoyomi" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/hinanu.png" alt="ひなぬー" id="hinanu" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/2basa.png" alt="2BASA" id="tsubasa" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/sasapiyo.png" alt="ささぴよ" id="sasapiyo" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/midodo.png" alt="みどど" id="midodo" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/gazooo0.png" alt="がずー" id="gazooo0" class="charactor" rel="preload">
-        <img src="@/assets/images/12th/manpuku.png" alt="まんぷくちゃん" id="manpuku" class="charactor" rel="preload">
+        <img src="/images/12th/shan.png" alt="しゃん" id="shan" class="charactor" rel="preload">
+        <img src="/images/12th/yoyomi.png" alt="よよみ" id="yoyomi" class="charactor" rel="preload">
+        <img src="/images/12th/hinanu.png" alt="ひなぬー" id="hinanu" class="charactor" rel="preload">
+        <img src="/images/12th/2basa.png" alt="2BASA" id="tsubasa" class="charactor" rel="preload">
+        <img src="/images/12th/sasapiyo.png" alt="ささぴよ" id="sasapiyo" class="charactor" rel="preload">
+        <img src="/images/12th/midodo.png" alt="みどど" id="midodo" class="charactor" rel="preload">
+        <img src="/images/12th/gazooo0.png" alt="がずー" id="gazooo0" class="charactor" rel="preload">
+        <img src="/images/12th/manpuku.png" alt="まんぷくちゃん" id="manpuku" class="charactor" rel="preload">
     </div>
 </template>
 

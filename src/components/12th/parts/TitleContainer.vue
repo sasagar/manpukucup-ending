@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <img src="@/assets/images/12th/manpukucup_12.png" alt="第12回まんぷく杯" rel="preload">
+    <img src="/images/12th/manpukucup_12.png" alt="第12回まんぷく杯" rel="preload">
 </template>
 
 <style lang="scss" scoped>
