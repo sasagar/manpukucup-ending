@@ -1,7 +1,7 @@
 <script setup>
 import OpsContainer from './parts/OpsContainer.vue';
 import ops from "../../assets/json/12th/ops.json";
-import { computed, onMounted, ref, defineEmits } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 const opsArr = ops.ops;
 
 const all = [...opsArr];
@@ -23,21 +23,20 @@ const _sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const teamTimer = function() {
     const timer =window.setInterval(async () => {
         isShow.value = false;
-        await _sleep(500);
-        console.log(all.length);        
-        console.log(counter.value * 12);
-        counter.value++;
-        console.log(counter.value);
-
-        isShow.value = true;
-
-        if ((counter.value * 12) > all.length) {
+        if (((counter.value + 1) * 8) > all.length) {
             console.log('clear');
             clearInterval(timer);
             emitter();
-           return;
+            return;
         }
-    },5000);
+        await _sleep(500);
+        console.log(all.length);        
+        counter.value++;
+        console.log(counter.value * 8);
+        console.log(counter.value);
+
+        isShow.value = true;
+    },7000);
 }
 onMounted(() => {
     teamTimer();

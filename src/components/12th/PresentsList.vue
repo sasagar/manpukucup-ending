@@ -22,21 +22,20 @@ const _sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const teamTimer = function() {
     const timer =window.setInterval(async () => {
         isShow.value = false;
-        await _sleep(500);
-        console.log(all.length);        
-        console.log(counter.value * 8);
-        counter.value++;
-        console.log(counter.value);
-        
-        isShow.value = true;
-
-        if ((counter.value * 8) > all.length) {
+        if (((counter.value + 1) * 8) > all.length) {
             console.log('clear');
             clearInterval(timer);
             emitter();
             return;
         }
-    },5000);
+        await _sleep(500);
+        console.log(all.length);        
+        counter.value++;
+        console.log(counter.value * 8);
+        console.log(counter.value);
+
+        isShow.value = true;
+    },7000);
 }
 onMounted(() => {
     teamTimer();

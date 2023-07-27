@@ -85,7 +85,7 @@ const endOps = async (res) => {
   <main>
     <Transition name="fade">
       <div id="ready" v-show="readyShow">
-        <h2 @click="start()">Ready...?</h2>
+        <h2 @click="start()" class="ready">Ready...?</h2>
       </div>
     </Transition>
     <CharactorContainer :props="charactorState" />
@@ -115,6 +115,10 @@ const endOps = async (res) => {
 main {
   width: 100%;
   height: 100%;
+}
+
+.ready {
+  cursor: pointer;
 }
 
 .fade-enter-from,

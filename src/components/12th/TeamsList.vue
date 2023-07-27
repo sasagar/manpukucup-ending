@@ -4,7 +4,7 @@ import extra from "../../assets/json/12th/extra.json";
 import pair from "../../assets/json/12th/pair.json";
 import solo from "../../assets/json/12th/solo.json";
 import team from "../../assets/json/12th/team.json";
-import { computed, onMounted, ref, defineEmits } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 const extraArr = extra.extras;
 const soloArr = solo.solos;
 const pairArr = pair.pairs;
