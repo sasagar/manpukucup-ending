@@ -80,7 +80,7 @@ const endOps = async (res) => {
 
 <template>
   <audio id="musicplayer" autoplay onplay="console.log('autoplay')">
-    <source src="@/assets/audio/SAMBA_30min.mp3" />
+    <source src="/audio/SAMBA_30min.mp3" />
   </audio>
   <main>
     <Transition name="fade">

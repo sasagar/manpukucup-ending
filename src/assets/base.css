@@ -55,28 +55,28 @@ body {
 
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1-common.3b7ce8b3c19f74921f51.woff2) format('woff2');
+  src: url(/font/Splatoon1-common.3b7ce8b3c19f74921f51.woff2) format('woff2');
   unicode-range: u+0000-007f, u+0080-00ff, u+0100-017f, u+0180-024f, u+02b0-02ff, u+0300-036f,
     u+0370-03ff, u+04??, u+2000-206f, u+2190-21ff, u+e000-f8ff;
 }
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1-symbol-common.38ddb9a11cb1f225e092.woff2) format('woff2');
+  src: url(/font/Splatoon1-symbol-common.38ddb9a11cb1f225e092.woff2) format('woff2');
   unicode-range: u+20a0-20cf, u+2100-214f, u+22??, u+23??, u+25a0-25ff, u+26??, u+fb00-fb4f;
 }
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1-cjk-common.62441e2d3263b7141ca0.woff2) format('woff2');
+  src: url(/font/Splatoon1-cjk-common.62441e2d3263b7141ca0.woff2) format('woff2');
   unicode-range: u+3000-303f, u+4e00-9fff, u+ff00-ffef;
 }
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1JP-hiragana-katakana.7650dccc9af86f19f094.woff2) format('woff2');
+  src: url(/font/Splatoon1JP-hiragana-katakana.7650dccc9af86f19f094.woff2) format('woff2');
   unicode-range: u+3040-309f, u+30a0-30ff;
 }
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1KRko-level1.a94dd3748648749f4583.woff2) format('woff2');
+  src: url(/font/Splatoon1KRko-level1.a94dd3748648749f4583.woff2) format('woff2');
   unicode-range: u+ac00-ac01, u+ac04, u+ac07-ac0a, u+ac10-ac17, u+ac19-ac1d, u+ac20, u+ac24,
     u+ac2c-ac2d, u+ac2f-ac31, u+ac38-ac39, u+ac3c, u+ac40, u+ac4b, u+ac4d, u+ac54, u+ac58, u+ac5c,
     u+ac70-ac71, u+ac74, u+ac77-ac78, u+ac7a, u+ac80-ac81, u+ac83-ac86, u+ac89-ac8c, u+ac90, u+ac94,
@@ -248,7 +248,7 @@ body {
 }
 @font-face {
   font-family: splatoon1;
-  src: url(@/assets/font/Splatoon1KRko-level2.fcce77dce5655afed7d2.woff2) format('woff2');
+  src: url(/font/Splatoon1KRko-level2.fcce77dce5655afed7d2.woff2) format('woff2');
   unicode-range: u+ac02-ac03, u+ac05-ac06, u+ac0b-ac0f, u+ac18, u+ac1e-ac1f, u+ac21-ac23,
     u+ac25-ac2b, u+ac2e, u+ac32-ac37, u+ac3a-ac3b, u+ac3d-ac3f, u+ac41-ac4a, u+ac4c, u+ac4e-ac53,
     u+ac55-ac57, u+ac59-ac5b, u+ac5d-ac6f, u+ac72-ac73, u+ac75-ac76, u+ac79, u+ac7b-ac7f, u+ac82,
@@ -461,7 +461,7 @@ body {
 }
 @font-face {
   font-family: splatoon1jpja;
-  src: url(@/assets/font/Splatoon1JP-level1.fafc97f04a568e26ba52.woff2) format('woff2');
+  src: url(/font/Splatoon1JP-level1.fafc97f04a568e26ba52.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e07-4e0b, u+4e0d-4e0e, u+4e11, u+4e14, u+4e16, u+4e18-4e19,
     u+4e1e, u+4e21, u+4e26, u+4e2d, u+4e32, u+4e38-4e39, u+4e3b, u+4e43, u+4e45, u+4e4b, u+4e4d-4e4f,
     u+4e57, u+4e59, u+4e5d-4e5f, u+4e71, u+4e73, u+4e7e, u+4e80, u+4e86, u+4e88-4e89, u+4e8b-4e8c,
@@ -686,7 +686,7 @@ body {
 }
 @font-face {
   font-family: splatoon1jpja;
-  src: url(@/assets/font/Splatoon1JP-level2.225bb1db5962c9d61773.woff2) format('woff2');
+  src: url(/font/Splatoon1JP-level2.225bb1db5962c9d61773.woff2) format('woff2');
   unicode-range: u+4e10, u+4e15, u+4e17, u+4e2a, u+4e31, u+4e36, u+4e3c, u+4e3f, u+4e42, u+4e55-4e56,
     u+4e58, u+4e62, u+4e82, u+4e85, u+4e8a, u+4e8e, u+4e9e-4ea0, u+4ea2, u+4eb0, u+4eb3, u+4eb6,
     u+4ec2, u+4ec4, u+4ec6, u+4ecd-4ece, u+4ed7, u+4ede-4edf, u+4eed, u+4ef7, u+4f09, u+4f1c, u+4f30,
@@ -947,7 +947,7 @@ body {
 }
 @font-face {
   font-family: splatoon1chzh;
-  src: url(@/assets/font/Splatoon1CHzh-level1.6b6af277c3dc45a8cf10.woff2) format('woff2');
+  src: url(/font/Splatoon1CHzh-level1.6b6af277c3dc45a8cf10.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e07-4e0b, u+4e0d-4e0e, u+4e11, u+4e13-4e14, u+4e16,
     u+4e18-4e1d, u+4e22, u+4e24-4e25, u+4e27, u+4e2a-4e2b, u+4e2d, u+4e30, u+4e32, u+4e34,
     u+4e38-4e3b, u+4e3d-4e3e, u+4e43, u+4e45, u+4e48-4e49, u+4e4b-4e50, u+4e52-4e54, u+4e56,
@@ -1212,7 +1212,7 @@ body {
 }
 @font-face {
   font-family: splatoon1chzh;
-  src: url(@/assets/font/Splatoon1CHzh-level2.a24ca5d538d0b6a0d086.woff2) format('woff2');
+  src: url(/font/Splatoon1CHzh-level2.a24ca5d538d0b6a0d086.woff2) format('woff2');
   unicode-range: u+4e0c, u+4e10, u+4e15, u+4e1e, u+4e28, u+4e2c, u+4e36, u+4e3f, u+4e47, u+4e5c,
     u+4e69, u+4e8d, u+4e93, u+4e98, u+4e9f-4ea0, u+4eb3, u+4eb5, u+4ebb, u+4ec2-4ec4, u+4ec9,
     u+4edd-4ede, u+4ee1, u+4ee8, u+4eeb, u+4ef3, u+4ef5, u+4f09, u+4f1b, u+4f22, u+4f25, u+4f27,
@@ -1437,7 +1437,7 @@ body {
 }
 @font-face {
   font-family: splatoon1twzh;
-  src: url(@/assets/font/Splatoon1TWzh-level1.e991c1b3c2084df56d18.woff2) format('woff2');
+  src: url(/font/Splatoon1TWzh-level1.e991c1b3c2084df56d18.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e08-4e0b, u+4e0d, u+4e10-4e11, u+4e14-4e16, u+4e18-4e19,
     u+4e1e-4e1f, u+4e26, u+4e2b, u+4e2d, u+4e30, u+4e32, u+4e38-4e39, u+4e3b, u+4e43, u+4e45, u+4e48,
     u+4e4b, u+4e4d-4e4f, u+4e52-4e53, u+4e56, u+4e58-4e59, u+4e5d-4e5f, u+4e69, u+4e73, u+4e7e,
@@ -1813,7 +1813,7 @@ body {
 }
 @font-face {
   font-family: splatoon1twzh;
-  src: url(@/assets/font/Splatoon1TWzh-level2.054b111fb7118a083ff7.woff2) format('woff2');
+  src: url(/font/Splatoon1TWzh-level2.054b111fb7118a083ff7.woff2) format('woff2');
   unicode-range: u+4e07, u+4e0c, u+4e0e-4e0f, u+4e2e, u+4e31, u+4e33, u+4e3c, u+4e42, u+4e47, u+4e5c,
     u+4e7f, u+4e83-4e84, u+4e8d, u+4e93, u+4eb6, u+4eb9, u+4ec2, u+4ec8-4ec9, u+4eda, u+4edc-4edd,
     u+4ee1, u+4ee8-4ee9, u+4ef1, u+4ef4-4ef5, u+4ef7, u+4f00, u+4f02, u+4f04-4f05, u+4f08, u+4f0e,
@@ -2274,28 +2274,28 @@ body {
 
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2-common.4e7b2cad208fa2fc42ca.woff2) format('woff2');
+  src: url(/font/Splatoon2-common.4e7b2cad208fa2fc42ca.woff2) format('woff2');
   unicode-range: u+0000-007f, u+0080-00ff, u+0100-017f, u+0180-024f, u+02b0-02ff, u+0300-036f,
     u+0370-03ff, u+04??, u+2000-206f, u+2190-21ff, u+e000-f8ff;
 }
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2-symbol-common.93fd6ce98e21ffcf60bb.woff2) format('woff2');
+  src: url(/font/Splatoon2-symbol-common.93fd6ce98e21ffcf60bb.woff2) format('woff2');
   unicode-range: u+20a0-20cf, u+2100-214f, u+22??, u+23??, u+25a0-25ff, u+26??, u+fb00-fb4f;
 }
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2-cjk-common.7dc791c403ed7f33d73e.woff2) format('woff2');
+  src: url(/font/Splatoon2-cjk-common.7dc791c403ed7f33d73e.woff2) format('woff2');
   unicode-range: u+3000-303f, u+4e00-9fff, u+ff00-ffef;
 }
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2JP-hiragana-katakana.f423b5ce60b7456df1b3.woff2) format('woff2');
+  src: url(/font/Splatoon2JP-hiragana-katakana.f423b5ce60b7456df1b3.woff2) format('woff2');
   unicode-range: u+3040-309f, u+30a0-30ff;
 }
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2KRko-level1.43823c36f04880c807a5.woff2) format('woff2');
+  src: url(/font/Splatoon2KRko-level1.43823c36f04880c807a5.woff2) format('woff2');
   unicode-range: u+ac00-ac01, u+ac04, u+ac07-ac0a, u+ac10-ac17, u+ac19-ac1d, u+ac20, u+ac24,
     u+ac2c-ac2d, u+ac2f-ac31, u+ac38-ac39, u+ac3c, u+ac40, u+ac4b, u+ac4d, u+ac54, u+ac58, u+ac5c,
     u+ac70-ac71, u+ac74, u+ac77-ac78, u+ac7a, u+ac80-ac81, u+ac83-ac86, u+ac89-ac8c, u+ac90, u+ac94,
@@ -2467,7 +2467,7 @@ body {
 }
 @font-face {
   font-family: splatoon2;
-  src: url(@/assets/font/Splatoon2KRko-level2.5f8850c8a0ecb0e0bad0.woff2) format('woff2');
+  src: url(/font/Splatoon2KRko-level2.5f8850c8a0ecb0e0bad0.woff2) format('woff2');
   unicode-range: u+ac02-ac03, u+ac05-ac06, u+ac0b-ac0f, u+ac18, u+ac1e-ac1f, u+ac21-ac23,
     u+ac25-ac2b, u+ac2e, u+ac32-ac37, u+ac3a-ac3b, u+ac3d-ac3f, u+ac41-ac4a, u+ac4c, u+ac4e-ac53,
     u+ac55-ac57, u+ac59-ac5b, u+ac5d-ac6f, u+ac72-ac73, u+ac75-ac76, u+ac79, u+ac7b-ac7f, u+ac82,
@@ -2680,7 +2680,7 @@ body {
 }
 @font-face {
   font-family: splatoon2jpja;
-  src: url(@/assets/font/Splatoon2JP-level1.1f43f499aa71ee002067.woff2) format('woff2');
+  src: url(/font/Splatoon2JP-level1.1f43f499aa71ee002067.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e07-4e0b, u+4e0d-4e0e, u+4e11, u+4e14, u+4e16, u+4e18-4e19,
     u+4e1e, u+4e21, u+4e26, u+4e2d, u+4e32, u+4e38-4e39, u+4e3b, u+4e43, u+4e45, u+4e4b, u+4e4d-4e4f,
     u+4e57, u+4e59, u+4e5d-4e5f, u+4e71, u+4e73, u+4e7e, u+4e80, u+4e86, u+4e88-4e89, u+4e8b-4e8c,
@@ -2905,7 +2905,7 @@ body {
 }
 @font-face {
   font-family: splatoon2jpja;
-  src: url(@/assets/font/Splatoon2JP-level2.9742567c70e359573d6d.woff2) format('woff2');
+  src: url(/font/Splatoon2JP-level2.9742567c70e359573d6d.woff2) format('woff2');
   unicode-range: u+4e10, u+4e15, u+4e17, u+4e2a, u+4e31, u+4e36, u+4e3c, u+4e3f, u+4e42, u+4e55-4e56,
     u+4e58, u+4e62, u+4e82, u+4e85, u+4e8a, u+4e8e, u+4e9e-4ea0, u+4ea2, u+4eb0, u+4eb3, u+4eb6,
     u+4ec2, u+4ec4, u+4ec6, u+4ecd-4ece, u+4ed7, u+4ede-4edf, u+4eed, u+4ef7, u+4f09, u+4f1c, u+4f30,
@@ -3166,7 +3166,7 @@ body {
 }
 @font-face {
   font-family: splatoon2chzh;
-  src: url(@/assets/font/Splatoon2CHzh-level1.2b5402a3e1871d28d815.woff2) format('woff2');
+  src: url(/font/Splatoon2CHzh-level1.2b5402a3e1871d28d815.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e07-4e0b, u+4e0d-4e0e, u+4e11, u+4e13-4e14, u+4e16,
     u+4e18-4e1d, u+4e22, u+4e24-4e25, u+4e27, u+4e2a-4e2b, u+4e2d, u+4e30, u+4e32, u+4e34,
     u+4e38-4e3b, u+4e3d-4e3e, u+4e43, u+4e45, u+4e48-4e49, u+4e4b-4e50, u+4e52-4e54, u+4e56,
@@ -3431,7 +3431,7 @@ body {
 }
 @font-face {
   font-family: splatoon2chzh;
-  src: url(@/assets/font/Splatoon2CHzh-level2.f1fae9e976006ec600e1.woff2) format('woff2');
+  src: url(/font/Splatoon2CHzh-level2.f1fae9e976006ec600e1.woff2) format('woff2');
   unicode-range: u+4e0c, u+4e10, u+4e15, u+4e1e, u+4e28, u+4e2c, u+4e36, u+4e3f, u+4e47, u+4e5c,
     u+4e69, u+4e8d, u+4e93, u+4e98, u+4e9f-4ea0, u+4eb3, u+4eb5, u+4ebb, u+4ec2-4ec4, u+4ec9,
     u+4edd-4ede, u+4ee1, u+4ee8, u+4eeb, u+4ef3, u+4ef5, u+4f09, u+4f1b, u+4f22, u+4f25, u+4f27,
@@ -3656,7 +3656,7 @@ body {
 }
 @font-face {
   font-family: splatoon2twzh;
-  src: url(@/assets/font/Splatoon2TWzh-level1.e7cd7449c1194b2e74fc.woff2) format('woff2');
+  src: url(/font/Splatoon2TWzh-level1.e7cd7449c1194b2e74fc.woff2) format('woff2');
   unicode-range: u+4e00-4e01, u+4e03, u+4e08-4e0b, u+4e0d, u+4e10-4e11, u+4e14-4e16, u+4e18-4e19,
     u+4e1e-4e1f, u+4e26, u+4e2b, u+4e2d, u+4e30, u+4e32, u+4e38-4e39, u+4e3b, u+4e43, u+4e45, u+4e48,
     u+4e4b, u+4e4d-4e4f, u+4e52-4e53, u+4e56, u+4e58-4e59, u+4e5d-4e5f, u+4e69, u+4e73, u+4e7e,
@@ -4032,7 +4032,7 @@ body {
 }
 @font-face {
   font-family: splatoon2twzh;
-  src: url(@/assets/font/Splatoon2TWzh-level2.c6e3984575483b178a4f.woff2) format('woff2');
+  src: url(/font/Splatoon2TWzh-level2.c6e3984575483b178a4f.woff2) format('woff2');
   unicode-range: u+4e07, u+4e0c, u+4e0e-4e0f, u+4e2e, u+4e31, u+4e33, u+4e3c, u+4e42, u+4e47, u+4e5c,
     u+4e7f, u+4e83-4e84, u+4e8d, u+4e93, u+4eb6, u+4eb9, u+4ec2, u+4ec8-4ec9, u+4eda, u+4edc-4edd,
     u+4ee1, u+4ee8-4ee9, u+4ef1, u+4ef4-4ef5, u+4ef7, u+4f00, u+4f02, u+4f04-4f05, u+4f08, u+4f0e,
