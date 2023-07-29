@@ -79,7 +79,7 @@ const endOps = async (res) => {
 </script>
 
 <template>
-  <audio id="musicplayer" autoplay onplay="console.log('autoplay')">
+  <audio id="musicplayer" onplay="console.log('autoplay')">
     <source src="/audio/SAMBA_30min.mp3" />
   </audio>
   <main>
