@@ -104,10 +104,10 @@ defineProps({
 
     h2 {
         position: absolute;
-        top: 25px;
+        top: 27px;
         width: 100%;
         font-family: var(--font-family-s1);
-        font-size: 35px;
+        font-size: 33px;
         text-align: center;
     }
 

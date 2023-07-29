@@ -221,17 +221,6 @@
             "message": "普段は納品意識が少なかったのでこの大会をきっかけに納品数を増やします！"
         },
         {
-            "futatsuna": "もうすぐ締め切りの納品レンジャー",
-            "name": "帰ってきた気まぐれ屋",
-            "members": [
-                {
-                    "name": "れびん"
-                }
-            ],
-            "push": "hanabi",
-            "message": "2回目です！目指せ上位50%！"
-        },
-        {
             "futatsuna": "昔からのくいしんぼう",
             "name": "にゃんこ",
             "members": [
@@ -815,17 +804,6 @@
             "message": "ソロで力試し！がんばります！"
         },
         {
-            "futatsuna": "進撃のテッキュウ",
-            "name": "ぼっち・ざ・べっちゅ！",
-            "members": [
-                {
-                    "name": "けんのすけ"
-                }
-            ],
-            "push": "hanabi",
-            "message": "金網のカタパッドゆるさん"
-        },
-        {
             "futatsuna": "かけだしの新人アルバイター",
             "name": "サモランチョットデキル",
             "members": [
@@ -1145,17 +1123,6 @@
             "message": "初参加です！楽しみます！"
         },
         {
-            "futatsuna": "おいしいカルパッチョ",
-            "name": "おいしいのどぐろ",
-            "members": [
-                {
-                    "name": "のどぐろR"
-                }
-            ],
-            "push": "bbq",
-            "message": "1大会ぶりの参加です。アラフォーが納品頑張ります。"
-        },
-        {
             "futatsuna": "実はイヌ",
             "name": "ナントカスルハチワレ",
             "members": [
@@ -1418,17 +1385,6 @@
             ],
             "push": "bbq",
             "message": "集計組と二足の草鞋してても結果出せるように頑張ります。p.sサモランクイズ作りました"
-        },
-        {
-            "futatsuna": "届かなかったイクラ投げ",
-            "name": "ひとりでできるもん！！",
-            "members": [
-                {
-                    "name": "YeB_おとうさん"
-                }
-            ],
-            "push": "hanabi",
-            "message": "はじめての参加ですが、頑張ります。"
         },
         {
             "futatsuna": "実はイカ",
@@ -1880,6 +1836,215 @@
             ],
             "push": "hanabi",
             "message": "のんびり頑張りまし。"
+        },
+        {
+            "futatsuna": "いちずなSUMMER",
+            "name": "京都暑過ぎ",
+            "members": [
+                {
+                    "name": "なすび"
+                }
+            ],
+            "push": "umi",
+            "message": "暑いけど夏好き"
+        },
+        {
+            "futatsuna": "あなただけのイヌ",
+            "name": "野良様の気の向くままに",
+            "members": [
+                {
+                    "name": "じいや"
+                }
+            ],
+            "push": "umi",
+            "message": "野良様のお役に立てるよう頑張ります"
+        },
+        {
+            "futatsuna": "ウルトラ処理班",
+            "name": "ドブ船沈没推奨委員会",
+            "members": [
+                {
+                    "name": "ゆであも"
+                }
+            ],
+            "push": "hanabi",
+            "message": "ぼっちでドブ船に行くことになりました。21:30までしかやれないしカンストまで17時間かかったし半年前であまりやってないので地獄が予想されます。対戦よろしくお願いいたします。"
+        },
+        {
+            "futatsuna": "水没のプロ",
+            "name": "給食当番",
+            "members": [
+                {
+                    "name": "おくら"
+                }
+            ],
+            "push": "umi",
+            "message": "初ソロ頑張ります！"
+        },
+        {
+            "futatsuna": "シャケシャケのイカ",
+            "name": "エークノーム",
+            "members": [
+                {
+                    "name": "シュン"
+                }
+            ],
+            "push": "hanabi",
+            "message": "バイト評価が下がらないように頑張ります"
+        },
+        {
+            "futatsuna": "シャケシャケのナイス",
+            "name": "れけれけれけれけれけ",
+            "members": [
+                {
+                    "name": "れけれけ"
+                }
+            ],
+            "push": "hanabi",
+            "message": "頑張ります！！"
+        },
+        {
+            "futatsuna": "かけだしのアルバイター",
+            "name": "ソロひよこ",
+            "members": [
+                {
+                    "name": "ひよこ"
+                }
+            ],
+            "push": "hanabi",
+            "message": "大会参加は初めてなので、頑張ります！"
+        },
+        {
+            "futatsuna": "シャケシャケの鮭畜",
+            "name": "イクラーメン",
+            "members": [
+                {
+                    "name": "にんげんもどき"
+                }
+            ],
+            "push": "umi",
+            "message": "初参加です！僕は普段乱獲取ろうとしない、、\nというか取れないんですけど久々にちょっと\nガチっていこうかなと思います！"
+        },
+        {
+            "futatsuna": "ウルトラビッグラン",
+            "name": "そる",
+            "members": [
+                {
+                    "name": "そる"
+                }
+            ],
+            "push": "umi",
+            "message": "アゲてきます"
+        },
+        {
+            "futatsuna": "でんせつの処理班",
+            "name": "ぼっちの鮭畜",
+            "members": [
+                {
+                    "name": "カロウシぱいせん"
+                }
+            ],
+            "push": "hanabi",
+            "message": "初参加ですががんばります"
+        },
+        {
+            "futatsuna": "何度でもナイス",
+            "name": "こめこぱんず",
+            "members": [
+                {
+                    "name": "しゅくだい"
+                }
+            ],
+            "push": "umi",
+            "message": "眠気に負けないように頑張ります！"
+        },
+        {
+            "futatsuna": "恋のLOVE",
+            "name": "いいや！限界だ破壊するね！",
+            "members": [
+                {
+                    "name": "み。"
+                }
+            ],
+            "push": "hanabi",
+            "message": "バイツァ・ダスト使って良ウェーブを引きます"
+        },
+        {
+            "futatsuna": "波乗りシャケラッシュ",
+            "name": "鮭は百薬の長",
+            "members": [
+                {
+                    "name": "きょう"
+                }
+            ],
+            "push": "bbq",
+            "message": "頑張ります！"
+        },
+        {
+            "futatsuna": "ワールドツアー中の夜景好き",
+            "name": "QrossChannel",
+            "members": [
+                {
+                    "name": "Qiri"
+                }
+            ],
+            "push": "hanabi",
+            "message": "記念労働します"
+        },
+        {
+            "futatsuna": "かけだしの新人",
+            "name": "タツマキ",
+            "members": [
+                {
+                    "name": "SSK"
+                }
+            ],
+            "push": "umi",
+            "message": "がんばります"
+        },
+        {
+            "futatsuna": "あらぶるパフェ",
+            "name": "親子丼",
+            "members": [
+                {
+                    "name": "おやこどん"
+                }
+            ],
+            "push": "hanabi",
+            "message": "がんばｒ"
+        },
+        {
+            "futatsuna": "無意識にカルパッチョ",
+            "name": "海の掃除屋",
+            "members": [
+                {
+                    "name": "Kazoo "
+                }
+            ],
+            "push": "bbq",
+            "message": "初めての参加です！沢山捌きたいと思います！！"
+        },
+        {
+            "futatsuna": "炭酸の間欠泉",
+            "name": "ロングボール",
+            "members": [
+                {
+                    "name": "442"
+                }
+            ],
+            "push": "hanabi",
+            "message": "よろしくお願いします"
+        },
+        {
+            "futatsuna": "かけだしのイカ",
+            "name": "ムラスズ",
+            "members": [
+                {
+                    "name": "M"
+                }
+            ],
+            "push": "hanabi",
+            "message": "一生懸命頑張ります"
         }
     ]
 }

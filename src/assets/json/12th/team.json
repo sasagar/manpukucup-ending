@@ -327,23 +327,6 @@
             "message": "普段乱獲をしないメンツでの参加です！１ヶ月間チームメンバー全員が高いモチベーションをもって練習してきました！本番でその力を十分に発揮できるように頑張ります！"
         },
         {
-            "futatsuna": "キミとテッキュウ",
-            "name": "ちーむにしきあなご",
-            "members": [
-                {
-                    "name": "さゆにしき"
-                },
-                {
-                    "name": "あなごてんちょ"
-                },
-                {
-                    "name": "じゃりにしき"
-                }
-            ],
-            "push": "bbq",
-            "message": "初出場！頑張るぞおー！"
-        },
-        {
             "futatsuna": "トキメキ☆労働組合員",
             "name": "The営業",
             "members": [
@@ -762,7 +745,7 @@
             "name": "salmon MASTers",
             "members": [
                 {
-                    "name": "TΛKUM1≫≫≫"
+                    "name": "TΛKM1≫≫≫"
                 },
                 {
                     "name": "あまてらすす"
@@ -1625,7 +1608,7 @@
                     "name": "だいさんのはり"
                 },
                 {
-                    "name": "10"
+                    "name": "10."
                 },
                 {
                     "name": "なにぬねの"
@@ -1976,26 +1959,6 @@
             ],
             "push": "hanabi",
             "message": "納品納品納品\n生きる生きる生きる"
-        },
-        {
-            "futatsuna": "心の中のバイトリーダー",
-            "name": "大衆居酒屋みっちょん",
-            "members": [
-                {
-                    "name": "かのん。[SPN]"
-                },
-                {
-                    "name": "ぽち*[SPN]"
-                },
-                {
-                    "name": "せりな{RSC}"
-                },
-                {
-                    "name": "さとうさん"
-                }
-            ],
-            "push": "bbq",
-            "message": "息ぴったりなチームワークでたくさん納品します！楽しもう！"
         },
         {
             "futatsuna": "あまーい女神",
@@ -2686,7 +2649,7 @@
                     "name": "Akiiiii"
                 },
                 {
-                    "name": "momo/106"
+                    "name": "momo"
                 },
                 {
                     "name": "ますたそ VT"
@@ -2794,6 +2757,258 @@
             ],
             "push": "umi",
             "message": "全員オッサンです。"
+        },
+        {
+            "futatsuna": "ダイエット中のデスタワー",
+            "name": "真夏のハジケ隊・雲の上のタワー",
+            "members": [
+                {
+                    "name": "バネヤマ"
+                },
+                {
+                    "name": "おおたけ"
+                },
+                {
+                    "name": "れんぼー"
+                },
+                {
+                    "name": "alkali"
+                },
+                {
+                    "name": "すじこ・F・すじを"
+                }
+            ],
+            "push": "bbq",
+            "message": "ついに集まったハジケ隊の底力みせてやりますよ！～くもやんさんを添えて～"
+        },
+        {
+            "futatsuna": "いつまでも労働組合員",
+            "name": "ゆきんこFamily",
+            "members": [
+                {
+                    "name": "ゆきんこ"
+                },
+                {
+                    "name": "こう"
+                },
+                {
+                    "name": "りょう"
+                },
+                {
+                    "name": "ソール・カティ"
+                }
+            ],
+            "push": "umi",
+            "message": "17LIVEから参戦致します！前回よりハイスコア目指して頑張ります！"
+        },
+        {
+            "futatsuna": "心の中のバイトリーダー",
+            "name": "大衆居酒屋みっちょん",
+            "members": [
+                {
+                    "name": "かのん。[SPN]"
+                },
+                {
+                    "name": "ぽち*"
+                },
+                {
+                    "name": "せりな{RSC}"
+                },
+                {
+                    "name": "さとうさん"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "ポンポンパフェ",
+            "name": "パニペコ",
+            "members": [
+                {
+                    "name": "はにょ"
+                },
+                {
+                    "name": "ふぃ"
+                },
+                {
+                    "name": "ぺcola"
+                },
+                {
+                    "name": "ワニワニパニック"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "あらぶる正社員",
+            "name": "über alles",
+            "members": [
+                {
+                    "name": "どいつライカ つべ"
+                },
+                {
+                    "name": "といつのモリ"
+                },
+                {
+                    "name": "Fezz ィ"
+                },
+                {
+                    "name": "サカナなヒト"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆納品レンジャー",
+            "name": "鮭ヶ咲学園クマサンバイト同好会",
+            "members": [
+                {
+                    "name": "kazu"
+                },
+                {
+                    "name": "くち"
+                },
+                {
+                    "name": "なり"
+                },
+                {
+                    "name": "ショコラ"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "トキメキ☆テッキュウ愛",
+            "name": "しおかぜ",
+            "members": [
+                {
+                    "name": "i©hiSuIξψ"
+                },
+                {
+                    "name": "、"
+                },
+                {
+                    "name": "EO＿おかか"
+                },
+                {
+                    "name": "player"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "常夏の難破船ドン・ブラコ",
+            "name": "YNG",
+            "members": [
+                {
+                    "name": "うえしば　いぬへい"
+                },
+                {
+                    "name": "ちー"
+                },
+                {
+                    "name": "たらお"
+                },
+                {
+                    "name": "ゆぴらいど"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "バイト戦隊新人",
+            "name": "リリィのもちもちミルクオレ＋",
+            "members": [
+                {
+                    "name": "ミルクオレ"
+                },
+                {
+                    "name": "リリィ"
+                },
+                {
+                    "name": "あいすもち"
+                },
+                {
+                    "name": "タス"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "トキメキ☆カルパッチョ",
+            "name": "Kitchen",
+            "members": [
+                {
+                    "name": "N'sK シナモン★"
+                },
+                {
+                    "name": "おりんオリンoRin"
+                },
+                {
+                    "name": "MC★チロノレ"
+                },
+                {
+                    "name": "アシカのあしかして"
+                }
+            ],
+            "push": "umi"
+        },
+        {
+            "futatsuna": "いちずな鮭畜",
+            "name": "社畜",
+            "members": [
+                {
+                    "name": "アルちゅうカラカラ"
+                },
+                {
+                    "name": "ふへへ"
+                },
+                {
+                    "name": "しろみそ"
+                }
+            ],
+            "push": "bbq"
+        },
+        {
+            "futatsuna": "クマサン商会の新人",
+            "name": "イカ41bamboo",
+            "members": [
+                {
+                    "name": "まんたろ"
+                },
+                {
+                    "name": "だーくねすへぶん"
+                },
+                {
+                    "name": "わたん"
+                },
+                {
+                    "name": "わい"
+                }
+            ],
+            "push": "hanabi"
+        },
+        {
+            "futatsuna": "昔からの処理班",
+            "name": "しょりけんはらはち部",
+            "members": [
+                {
+                    "name": "じゅじゅびす"
+                },
+                {
+                    "name": "ぼんざぶろう"
+                },
+                {
+                    "name": "nimurag"
+                },
+                {
+                    "name": "ist"
+                },
+                {
+                    "name": "とろろちゃん"
+                }
+            ],
+            "push": "hanabi"
         }
     ]
 }
